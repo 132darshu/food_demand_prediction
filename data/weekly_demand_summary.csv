@@ -1,0 +1,637 @@
+dish_name,dish_category,week_number,total_orders,total_qty,total_revenue,avg_rating,rush_day_for_dish
+BBQ Chicken Pizza,Pizza,3,1,2,31.98,,Monday
+BBQ Chicken Pizza,Pizza,4,2,5,79.95,4.5,Monday
+BBQ Chicken Pizza,Pizza,5,1,1,15.99,4.0,Monday
+BBQ Chicken Pizza,Pizza,7,2,3,47.97,4.5,Monday
+BBQ Chicken Pizza,Pizza,9,1,2,27.18,5.0,Monday
+BBQ Chicken Pizza,Pizza,10,1,3,47.97,5.0,Monday
+BBQ Chicken Pizza,Pizza,11,1,1,15.99,,Monday
+BBQ Chicken Pizza,Pizza,13,2,3,47.97,5.0,Monday
+BBQ Chicken Pizza,Pizza,14,3,6,95.94,3.0,Monday
+BBQ Chicken Pizza,Pizza,15,1,3,47.97,,Monday
+BBQ Chicken Pizza,Pizza,16,4,9,141.51,4.25,Monday
+BBQ Chicken Pizza,Pizza,19,1,1,13.59,1.0,Monday
+BBQ Chicken Pizza,Pizza,20,1,2,31.98,4.0,Monday
+BBQ Chicken Pizza,Pizza,25,1,4,63.96,3.0,Monday
+BBQ Chicken Pizza,Pizza,26,1,3,47.97,5.0,Monday
+BBQ Chicken Pizza,Pizza,27,2,3,47.97,5.0,Monday
+BBQ Chicken Pizza,Pizza,28,2,3,47.97,4.5,Monday
+BBQ Chicken Pizza,Pizza,29,1,4,63.96,4.0,Monday
+BBQ Chicken Pizza,Pizza,30,1,3,47.97,4.0,Monday
+BBQ Chicken Pizza,Pizza,31,1,2,31.98,,Monday
+BBQ Chicken Pizza,Pizza,32,1,4,63.96,,Monday
+BBQ Chicken Pizza,Pizza,34,2,5,79.95,4.0,Monday
+BBQ Chicken Pizza,Pizza,35,2,3,47.97,4.0,Monday
+BBQ Chicken Pizza,Pizza,36,4,8,127.92,4.75,Monday
+BBQ Chicken Pizza,Pizza,37,2,4,63.96,2.0,Monday
+BBQ Chicken Pizza,Pizza,38,3,7,109.53,5.0,Monday
+BBQ Chicken Pizza,Pizza,41,1,2,31.98,5.0,Monday
+BBQ Chicken Pizza,Pizza,42,1,1,15.99,,Monday
+BBQ Chicken Pizza,Pizza,46,1,3,47.97,5.0,Monday
+BBQ Chicken Pizza,Pizza,47,2,3,45.57,4.0,Monday
+BBQ Chicken Pizza,Pizza,48,3,5,79.95,3.5,Monday
+BBQ Chicken Pizza,Pizza,49,2,5,72.75,5.0,Monday
+BBQ Chicken Pizza,Pizza,51,1,1,15.99,4.0,Monday
+Caesar Salad,Salads,3,1,3,26.97,5.0,Tuesday
+Caesar Salad,Salads,5,1,2,17.98,2.0,Tuesday
+Caesar Salad,Salads,8,1,2,17.98,,Tuesday
+Caesar Salad,Salads,9,1,1,8.99,4.0,Tuesday
+Caesar Salad,Salads,14,1,3,26.97,4.0,Tuesday
+Caesar Salad,Salads,16,1,1,8.99,5.0,Tuesday
+Caesar Salad,Salads,22,1,1,8.99,3.0,Tuesday
+Caesar Salad,Salads,23,2,3,26.97,3.5,Tuesday
+Caesar Salad,Salads,25,1,1,8.99,4.0,Tuesday
+Caesar Salad,Salads,27,2,3,26.97,5.0,Tuesday
+Caesar Salad,Salads,29,1,2,17.98,,Tuesday
+Caesar Salad,Salads,30,1,1,8.99,4.0,Tuesday
+Caesar Salad,Salads,34,1,2,17.98,5.0,Tuesday
+Caesar Salad,Salads,35,1,5,44.95,1.0,Tuesday
+Caesar Salad,Salads,36,1,1,8.99,,Tuesday
+Caesar Salad,Salads,42,2,3,26.97,3.0,Tuesday
+Caesar Salad,Salads,47,3,7,62.93,4.0,Tuesday
+Cheesecake,Desserts,1,1,1,5.09,4.0,Saturday
+Cheesecake,Desserts,8,1,4,23.96,4.0,Saturday
+Cheesecake,Desserts,11,1,1,5.99,4.0,Saturday
+Cheesecake,Desserts,12,1,2,11.98,5.0,Saturday
+Cheesecake,Desserts,16,2,4,23.96,4.0,Saturday
+Cheesecake,Desserts,20,2,2,11.08,4.0,Saturday
+Cheesecake,Desserts,23,1,2,10.18,,Saturday
+Cheesecake,Desserts,26,1,2,11.98,4.0,Saturday
+Cheesecake,Desserts,27,2,5,28.15,,Saturday
+Cheesecake,Desserts,28,1,4,23.96,4.0,Saturday
+Cheesecake,Desserts,31,1,3,15.27,5.0,Saturday
+Cheesecake,Desserts,35,2,6,35.94,5.0,Saturday
+Cheesecake,Desserts,37,1,4,23.96,4.0,Saturday
+Cheesecake,Desserts,40,1,3,17.97,,Saturday
+Cheesecake,Desserts,41,1,1,5.99,,Saturday
+Cheesecake,Desserts,49,2,5,29.95,4.0,Saturday
+Cheesecake,Desserts,51,2,5,29.95,2.5,Saturday
+Chicken Biryani,Rice Dishes,2,1,4,55.96,,Friday
+Chicken Biryani,Rice Dishes,4,1,1,13.99,4.0,Friday
+Chicken Biryani,Rice Dishes,5,1,2,23.78,4.0,Friday
+Chicken Biryani,Rice Dishes,7,1,1,11.89,4.0,Friday
+Chicken Biryani,Rice Dishes,8,1,4,55.96,3.0,Friday
+Chicken Biryani,Rice Dishes,10,3,7,97.93,4.0,Friday
+Chicken Biryani,Rice Dishes,13,3,7,97.93,5.0,Friday
+Chicken Biryani,Rice Dishes,14,4,7,93.73,4.0,Friday
+Chicken Biryani,Rice Dishes,15,1,3,41.97,4.0,Friday
+Chicken Biryani,Rice Dishes,16,1,1,13.99,5.0,Friday
+Chicken Biryani,Rice Dishes,18,1,2,27.98,,Friday
+Chicken Biryani,Rice Dishes,19,2,2,27.98,2.5,Friday
+Chicken Biryani,Rice Dishes,20,1,1,13.99,4.0,Friday
+Chicken Biryani,Rice Dishes,21,1,2,23.78,,Friday
+Chicken Biryani,Rice Dishes,22,1,1,11.89,,Friday
+Chicken Biryani,Rice Dishes,23,1,1,13.99,,Friday
+Chicken Biryani,Rice Dishes,25,1,1,13.99,,Friday
+Chicken Biryani,Rice Dishes,28,1,1,13.99,5.0,Friday
+Chicken Biryani,Rice Dishes,31,2,9,107.01,4.5,Friday
+Chicken Biryani,Rice Dishes,32,1,1,13.99,,Friday
+Chicken Biryani,Rice Dishes,36,1,1,13.99,4.0,Friday
+Chicken Biryani,Rice Dishes,37,2,5,69.95,4.0,Friday
+Chicken Biryani,Rice Dishes,38,1,2,23.78,,Friday
+Chicken Biryani,Rice Dishes,39,1,2,27.98,5.0,Friday
+Chicken Biryani,Rice Dishes,40,1,2,27.98,,Friday
+Chicken Biryani,Rice Dishes,42,2,4,55.96,4.5,Friday
+Chicken Biryani,Rice Dishes,43,2,3,41.97,4.0,Friday
+Chicken Biryani,Rice Dishes,44,3,6,77.64,3.67,Friday
+Chicken Biryani,Rice Dishes,46,3,7,97.93,4.0,Friday
+Chicken Biryani,Rice Dishes,47,2,9,117.51,5.0,Friday
+Chicken Biryani,Rice Dishes,50,1,1,13.99,,Friday
+Chocolate Lava Cake,Desserts,2,2,6,41.94,2.0,Friday
+Chocolate Lava Cake,Desserts,3,1,1,6.99,2.0,Friday
+Chocolate Lava Cake,Desserts,4,1,1,5.94,5.0,Friday
+Chocolate Lava Cake,Desserts,7,1,2,13.98,,Friday
+Chocolate Lava Cake,Desserts,9,1,1,6.99,4.0,Friday
+Chocolate Lava Cake,Desserts,10,1,1,6.99,2.0,Friday
+Chocolate Lava Cake,Desserts,14,2,3,18.87,4.0,Friday
+Chocolate Lava Cake,Desserts,16,2,2,12.93,5.0,Friday
+Chocolate Lava Cake,Desserts,17,1,3,20.97,4.0,Friday
+Chocolate Lava Cake,Desserts,20,1,2,13.98,,Friday
+Chocolate Lava Cake,Desserts,25,1,4,23.76,4.0,Friday
+Chocolate Lava Cake,Desserts,28,1,5,34.95,5.0,Friday
+Chocolate Lava Cake,Desserts,36,1,4,27.96,3.0,Friday
+Chocolate Lava Cake,Desserts,39,1,2,11.88,5.0,Friday
+Chocolate Lava Cake,Desserts,47,1,4,27.96,,Friday
+Chocolate Lava Cake,Desserts,48,1,1,6.99,2.0,Friday
+Chocolate Lava Cake,Desserts,49,2,6,39.84,4.0,Friday
+Chocolate Lava Cake,Desserts,50,1,2,11.88,,Friday
+Chocolate Lava Cake,Desserts,51,1,1,6.99,5.0,Friday
+Classic Burger,Burgers,1,4,11,98.89,4.0,Monday
+Classic Burger,Burgers,2,4,8,71.92,4.33,Monday
+Classic Burger,Burgers,3,1,3,26.97,2.0,Monday
+Classic Burger,Burgers,4,3,5,39.55,3.0,Monday
+Classic Burger,Burgers,8,2,3,26.97,3.0,Monday
+Classic Burger,Burgers,9,2,3,26.97,3.5,Monday
+Classic Burger,Burgers,11,1,3,26.97,4.0,Monday
+Classic Burger,Burgers,12,1,2,15.28,,Monday
+Classic Burger,Burgers,13,1,1,8.99,4.0,Monday
+Classic Burger,Burgers,15,1,2,17.98,4.0,Monday
+Classic Burger,Burgers,16,3,4,33.26,3.0,Monday
+Classic Burger,Burgers,17,1,3,26.97,5.0,Monday
+Classic Burger,Burgers,18,3,7,62.93,3.5,Monday
+Classic Burger,Burgers,20,1,3,26.97,4.0,Monday
+Classic Burger,Burgers,21,1,1,7.64,4.0,Monday
+Classic Burger,Burgers,22,1,1,8.99,4.0,Monday
+Classic Burger,Burgers,23,2,7,57.53,4.0,Monday
+Classic Burger,Burgers,24,1,3,26.97,4.0,Monday
+Classic Burger,Burgers,25,2,4,35.96,4.0,Monday
+Classic Burger,Burgers,26,2,2,16.63,2.5,Monday
+Classic Burger,Burgers,27,1,1,8.99,4.0,Monday
+Classic Burger,Burgers,28,3,9,80.91,3.33,Monday
+Classic Burger,Burgers,31,1,1,8.99,3.0,Monday
+Classic Burger,Burgers,32,3,8,71.92,3.5,Monday
+Classic Burger,Burgers,33,1,1,8.99,4.0,Monday
+Classic Burger,Burgers,34,3,7,62.93,4.0,Monday
+Classic Burger,Burgers,35,1,2,17.98,4.0,Monday
+Classic Burger,Burgers,36,3,7,62.93,3.5,Monday
+Classic Burger,Burgers,39,4,15,134.85,3.0,Monday
+Classic Burger,Burgers,40,2,6,53.94,5.0,Monday
+Classic Burger,Burgers,41,4,7,58.88,3.33,Monday
+Classic Burger,Burgers,42,3,4,35.96,3.5,Monday
+Classic Burger,Burgers,44,2,5,44.95,4.5,Monday
+Classic Burger,Burgers,45,3,4,34.61,3.0,Monday
+Classic Burger,Burgers,46,2,4,35.96,3.5,Monday
+Classic Burger,Burgers,47,3,5,43.6,4.33,Monday
+Classic Burger,Burgers,48,2,4,35.96,3.5,Monday
+Classic Burger,Burgers,50,3,6,53.94,3.0,Monday
+Classic Burger,Burgers,51,4,12,107.88,3.75,Monday
+Classic Burger,Burgers,52,1,2,17.98,5.0,Monday
+Double Cheeseburger,Burgers,1,1,1,11.49,1.0,Sunday
+Double Cheeseburger,Burgers,2,3,4,40.8,3.5,Sunday
+Double Cheeseburger,Burgers,4,3,8,88.48,4.0,Sunday
+Double Cheeseburger,Burgers,6,3,7,73.55,2.5,Sunday
+Double Cheeseburger,Burgers,7,1,4,45.96,4.0,Sunday
+Double Cheeseburger,Burgers,8,2,3,32.75,4.5,Sunday
+Double Cheeseburger,Burgers,11,1,3,34.47,3.0,Sunday
+Double Cheeseburger,Burgers,12,1,2,19.54,,Sunday
+Double Cheeseburger,Burgers,14,1,1,9.77,,Sunday
+Double Cheeseburger,Burgers,15,1,1,11.49,,Sunday
+Double Cheeseburger,Burgers,16,1,1,11.49,4.0,Sunday
+Double Cheeseburger,Burgers,17,2,2,22.98,3.5,Sunday
+Double Cheeseburger,Burgers,18,2,2,22.98,4.5,Sunday
+Double Cheeseburger,Burgers,20,2,5,57.45,3.5,Sunday
+Double Cheeseburger,Burgers,21,1,2,22.98,4.0,Sunday
+Double Cheeseburger,Burgers,22,2,5,57.45,5.0,Sunday
+Double Cheeseburger,Burgers,26,2,2,22.98,4.0,Sunday
+Double Cheeseburger,Burgers,28,2,2,22.98,4.5,Sunday
+Double Cheeseburger,Burgers,31,1,5,57.45,5.0,Sunday
+Double Cheeseburger,Burgers,32,1,2,22.98,4.0,Sunday
+Double Cheeseburger,Burgers,33,2,8,86.76,4.0,Sunday
+Double Cheeseburger,Burgers,34,3,9,103.41,3.0,Sunday
+Double Cheeseburger,Burgers,37,2,5,54.01,4.0,Sunday
+Double Cheeseburger,Burgers,41,1,1,11.49,5.0,Sunday
+Double Cheeseburger,Burgers,42,2,2,22.98,3.5,Sunday
+Double Cheeseburger,Burgers,43,1,4,45.96,5.0,Sunday
+Double Cheeseburger,Burgers,44,1,2,22.98,4.0,Sunday
+Double Cheeseburger,Burgers,45,1,3,34.47,3.0,Sunday
+Double Cheeseburger,Burgers,46,1,1,11.49,5.0,Sunday
+Double Cheeseburger,Burgers,47,1,2,22.98,,Sunday
+Double Cheeseburger,Burgers,50,2,2,22.98,3.5,Sunday
+Falafel Wrap,Wraps,5,1,1,8.49,,Monday
+Falafel Wrap,Wraps,9,2,4,32.69,,Monday
+Falafel Wrap,Wraps,10,1,2,16.98,,Monday
+Falafel Wrap,Wraps,11,1,1,7.22,2.0,Monday
+Falafel Wrap,Wraps,14,2,4,33.96,4.0,Monday
+Falafel Wrap,Wraps,15,1,4,33.96,5.0,Monday
+Falafel Wrap,Wraps,17,1,2,16.98,2.0,Monday
+Falafel Wrap,Wraps,20,1,1,8.49,5.0,Monday
+Falafel Wrap,Wraps,21,2,2,15.71,5.0,Monday
+Falafel Wrap,Wraps,22,1,2,16.98,5.0,Monday
+Falafel Wrap,Wraps,25,1,5,42.45,,Monday
+Falafel Wrap,Wraps,26,1,5,42.45,3.0,Monday
+Falafel Wrap,Wraps,27,1,3,25.47,5.0,Monday
+Falafel Wrap,Wraps,30,4,9,75.14,4.33,Monday
+Falafel Wrap,Wraps,31,1,2,16.98,,Monday
+Falafel Wrap,Wraps,33,1,2,16.98,5.0,Monday
+Falafel Wrap,Wraps,34,2,5,38.64,5.0,Monday
+Falafel Wrap,Wraps,36,1,2,16.98,5.0,Monday
+Falafel Wrap,Wraps,38,1,2,16.98,5.0,Monday
+Falafel Wrap,Wraps,40,1,2,16.98,5.0,Monday
+Falafel Wrap,Wraps,43,1,1,8.49,4.0,Monday
+Falafel Wrap,Wraps,44,2,5,38.64,4.0,Monday
+Falafel Wrap,Wraps,46,1,1,7.22,5.0,Monday
+Falafel Wrap,Wraps,48,1,1,8.49,,Monday
+Falafel Wrap,Wraps,52,2,3,24.2,5.0,Monday
+French Fries,Sides,2,3,7,27.93,4.5,Saturday
+French Fries,Sides,4,4,7,27.93,4.5,Saturday
+French Fries,Sides,5,1,2,7.98,5.0,Saturday
+French Fries,Sides,6,1,1,3.39,3.0,Saturday
+French Fries,Sides,7,1,1,3.99,4.0,Saturday
+French Fries,Sides,8,2,6,23.94,4.0,Saturday
+French Fries,Sides,11,3,7,27.93,4.67,Saturday
+French Fries,Sides,12,1,1,3.99,5.0,Saturday
+French Fries,Sides,13,1,1,3.99,3.0,Saturday
+French Fries,Sides,14,2,6,23.94,4.0,Saturday
+French Fries,Sides,15,1,1,3.99,5.0,Saturday
+French Fries,Sides,18,4,9,35.91,3.75,Saturday
+French Fries,Sides,19,1,5,19.95,4.0,Saturday
+French Fries,Sides,20,4,6,23.94,5.0,Saturday
+French Fries,Sides,21,1,1,3.99,5.0,Saturday
+French Fries,Sides,22,1,1,3.99,4.0,Saturday
+French Fries,Sides,23,1,2,7.98,,Saturday
+French Fries,Sides,24,2,3,11.97,,Saturday
+French Fries,Sides,25,3,5,18.15,4.0,Saturday
+French Fries,Sides,26,1,4,15.96,2.0,Saturday
+French Fries,Sides,27,2,4,15.96,4.0,Saturday
+French Fries,Sides,28,2,2,7.98,4.5,Saturday
+French Fries,Sides,30,1,2,7.98,5.0,Saturday
+French Fries,Sides,31,1,1,3.99,,Saturday
+French Fries,Sides,32,2,2,7.98,3.5,Saturday
+French Fries,Sides,33,1,1,3.99,,Saturday
+French Fries,Sides,35,3,5,19.95,4.0,Saturday
+French Fries,Sides,36,1,3,11.97,4.0,Saturday
+French Fries,Sides,37,3,4,15.96,5.0,Saturday
+French Fries,Sides,38,1,1,3.99,1.0,Saturday
+French Fries,Sides,40,4,8,31.92,3.33,Saturday
+French Fries,Sides,41,4,7,27.93,4.0,Saturday
+French Fries,Sides,42,3,4,15.36,4.33,Saturday
+French Fries,Sides,45,4,12,47.88,3.75,Saturday
+French Fries,Sides,46,3,7,27.93,2.5,Saturday
+French Fries,Sides,47,4,10,38.1,4.5,Saturday
+French Fries,Sides,49,1,2,7.98,5.0,Saturday
+French Fries,Sides,51,1,5,19.95,1.0,Saturday
+French Fries,Sides,52,2,5,19.95,4.0,Saturday
+Greek Salad,Salads,1,1,3,25.47,5.0,Saturday
+Greek Salad,Salads,3,2,3,25.47,4.0,Saturday
+Greek Salad,Salads,10,1,2,16.98,5.0,Saturday
+Greek Salad,Salads,11,1,1,8.49,3.0,Saturday
+Greek Salad,Salads,12,2,6,45.86,4.0,Saturday
+Greek Salad,Salads,21,1,2,16.98,5.0,Saturday
+Greek Salad,Salads,22,2,2,16.98,5.0,Saturday
+Greek Salad,Salads,24,3,8,66.65,4.0,Saturday
+Greek Salad,Salads,26,1,2,16.98,4.0,Saturday
+Greek Salad,Salads,29,1,2,16.98,,Saturday
+Greek Salad,Salads,30,2,6,50.94,5.0,Saturday
+Greek Salad,Salads,31,3,4,33.96,4.0,Saturday
+Greek Salad,Salads,34,3,5,42.45,4.0,Saturday
+Greek Salad,Salads,35,1,3,25.47,,Saturday
+Greek Salad,Salads,36,2,3,25.47,3.5,Saturday
+Greek Salad,Salads,41,1,1,8.49,3.0,Saturday
+Greek Salad,Salads,43,1,2,16.98,3.0,Saturday
+Greek Salad,Salads,46,1,5,42.45,4.0,Saturday
+Greek Salad,Salads,47,1,2,14.44,4.0,Saturday
+Hot Coffee,Beverages,1,1,3,8.91,5.0,Saturday
+Hot Coffee,Beverages,2,1,1,3.49,4.0,Saturday
+Hot Coffee,Beverages,3,2,7,22.35,1.0,Saturday
+Hot Coffee,Beverages,4,5,10,34.38,4.33,Saturday
+Hot Coffee,Beverages,5,1,3,10.47,,Saturday
+Hot Coffee,Beverages,6,1,2,6.98,4.0,Saturday
+Hot Coffee,Beverages,7,1,2,5.94,4.0,Saturday
+Hot Coffee,Beverages,8,1,2,5.94,,Saturday
+Hot Coffee,Beverages,9,1,1,2.97,,Saturday
+Hot Coffee,Beverages,10,1,1,3.49,2.0,Saturday
+Hot Coffee,Beverages,12,1,1,3.49,5.0,Saturday
+Hot Coffee,Beverages,14,1,1,3.49,5.0,Saturday
+Hot Coffee,Beverages,16,3,4,13.44,3.33,Saturday
+Hot Coffee,Beverages,19,1,2,6.98,4.0,Saturday
+Hot Coffee,Beverages,25,1,2,6.98,5.0,Saturday
+Hot Coffee,Beverages,26,2,2,6.98,5.0,Saturday
+Hot Coffee,Beverages,28,1,4,13.96,3.0,Saturday
+Hot Coffee,Beverages,29,1,2,5.94,,Saturday
+Hot Coffee,Beverages,35,3,7,23.39,4.5,Saturday
+Hot Coffee,Beverages,36,1,1,3.49,4.0,Saturday
+Hot Coffee,Beverages,37,1,3,10.47,5.0,Saturday
+Hot Coffee,Beverages,38,2,4,13.96,3.5,Saturday
+Hot Coffee,Beverages,40,1,2,5.94,4.0,Saturday
+Hot Coffee,Beverages,42,1,1,3.49,5.0,Saturday
+Hot Coffee,Beverages,45,1,2,6.98,5.0,Saturday
+Hot Coffee,Beverages,47,1,1,3.49,1.0,Saturday
+Hot Coffee,Beverages,51,2,5,17.45,4.5,Saturday
+Hot Coffee,Beverages,52,1,1,3.49,4.0,Saturday
+Ice Cream Sundae,Desserts,1,1,2,10.98,4.0,Wednesday
+Ice Cream Sundae,Desserts,4,2,7,38.43,2.0,Wednesday
+Ice Cream Sundae,Desserts,6,1,1,5.49,4.0,Wednesday
+Ice Cream Sundae,Desserts,7,1,1,4.67,4.0,Wednesday
+Ice Cream Sundae,Desserts,8,1,1,5.49,5.0,Wednesday
+Ice Cream Sundae,Desserts,13,1,2,9.34,,Wednesday
+Ice Cream Sundae,Desserts,19,1,1,5.49,5.0,Wednesday
+Ice Cream Sundae,Desserts,21,2,3,16.47,,Wednesday
+Ice Cream Sundae,Desserts,24,1,1,5.49,4.0,Wednesday
+Ice Cream Sundae,Desserts,26,4,6,32.94,4.25,Wednesday
+Ice Cream Sundae,Desserts,30,3,3,14.83,4.0,Wednesday
+Ice Cream Sundae,Desserts,31,1,4,21.96,,Wednesday
+Ice Cream Sundae,Desserts,32,3,8,43.92,3.67,Wednesday
+Ice Cream Sundae,Desserts,35,1,2,10.98,4.0,Wednesday
+Ice Cream Sundae,Desserts,37,1,4,21.96,3.0,Wednesday
+Ice Cream Sundae,Desserts,39,1,1,5.49,3.0,Wednesday
+Ice Cream Sundae,Desserts,44,1,2,10.98,4.0,Wednesday
+Iced Coffee,Beverages,1,1,1,4.49,4.0,Sunday
+Iced Coffee,Beverages,8,1,2,7.64,1.0,Sunday
+Iced Coffee,Beverages,13,1,3,13.47,5.0,Sunday
+Iced Coffee,Beverages,15,1,1,4.49,3.0,Sunday
+Iced Coffee,Beverages,17,1,2,7.64,5.0,Sunday
+Iced Coffee,Beverages,22,1,1,3.82,5.0,Sunday
+Iced Coffee,Beverages,23,2,3,12.13,4.5,Sunday
+Iced Coffee,Beverages,24,1,2,8.98,,Sunday
+Iced Coffee,Beverages,25,1,2,8.98,4.0,Sunday
+Iced Coffee,Beverages,27,5,13,58.37,4.0,Sunday
+Iced Coffee,Beverages,29,2,5,22.45,3.5,Sunday
+Iced Coffee,Beverages,31,1,2,7.64,4.0,Sunday
+Iced Coffee,Beverages,33,1,1,3.82,2.0,Sunday
+Iced Coffee,Beverages,34,1,3,11.46,4.0,Sunday
+Iced Coffee,Beverages,35,1,4,17.96,,Sunday
+Iced Coffee,Beverages,38,1,3,13.47,5.0,Sunday
+Iced Coffee,Beverages,43,1,3,13.47,,Sunday
+Iced Coffee,Beverages,47,1,2,8.98,5.0,Sunday
+Iced Coffee,Beverages,50,1,1,4.49,,Sunday
+Lamb Biryani,Rice Dishes,2,2,3,47.0,4.5,Saturday
+Lamb Biryani,Rice Dishes,6,1,3,49.47,4.0,Saturday
+Lamb Biryani,Rice Dishes,7,2,7,103.08,5.0,Saturday
+Lamb Biryani,Rice Dishes,8,1,2,32.98,5.0,Saturday
+Lamb Biryani,Rice Dishes,10,1,1,14.02,3.0,Saturday
+Lamb Biryani,Rice Dishes,11,1,1,16.49,3.0,Saturday
+Lamb Biryani,Rice Dishes,13,1,1,16.49,4.0,Saturday
+Lamb Biryani,Rice Dishes,18,4,11,181.39,3.67,Saturday
+Lamb Biryani,Rice Dishes,19,1,1,16.49,4.0,Saturday
+Lamb Biryani,Rice Dishes,20,2,2,32.98,4.0,Saturday
+Lamb Biryani,Rice Dishes,25,1,1,16.49,4.0,Saturday
+Lamb Biryani,Rice Dishes,26,1,2,32.98,5.0,Saturday
+Lamb Biryani,Rice Dishes,34,1,1,16.49,3.0,Saturday
+Lamb Biryani,Rice Dishes,35,1,3,49.47,4.0,Saturday
+Lamb Biryani,Rice Dishes,36,2,6,98.94,5.0,Saturday
+Lamb Biryani,Rice Dishes,37,3,8,122.04,3.33,Saturday
+Lamb Biryani,Rice Dishes,40,2,8,131.92,4.0,Saturday
+Lamb Biryani,Rice Dishes,42,2,5,70.1,4.0,Saturday
+Lamb Biryani,Rice Dishes,44,3,8,114.63,4.0,Saturday
+Lamb Biryani,Rice Dishes,45,1,4,65.96,5.0,Saturday
+Lamb Biryani,Rice Dishes,47,1,5,70.1,,Saturday
+Lamb Biryani,Rice Dishes,48,3,7,98.14,4.0,Saturday
+Lamb Biryani,Rice Dishes,50,3,11,181.39,5.0,Saturday
+Lamb Biryani,Rice Dishes,51,1,3,49.47,4.0,Saturday
+Lemonade,Beverages,1,1,1,2.97,5.0,Sunday
+Lemonade,Beverages,10,1,2,6.98,5.0,Sunday
+Lemonade,Beverages,16,2,2,6.46,4.5,Sunday
+Lemonade,Beverages,18,1,1,3.49,3.0,Sunday
+Lemonade,Beverages,19,1,1,3.49,4.0,Sunday
+Lemonade,Beverages,21,2,4,13.96,4.5,Sunday
+Lemonade,Beverages,24,2,4,13.96,4.5,Sunday
+Lemonade,Beverages,25,2,5,17.45,4.0,Sunday
+Lemonade,Beverages,26,2,4,13.96,4.0,Sunday
+Lemonade,Beverages,28,4,10,33.86,2.67,Sunday
+Lemonade,Beverages,29,1,2,6.98,4.0,Sunday
+Lemonade,Beverages,30,2,4,11.88,4.0,Sunday
+Lemonade,Beverages,31,1,1,3.49,,Sunday
+Lemonade,Beverages,32,3,8,24.8,2.0,Sunday
+Lemonade,Beverages,35,1,1,3.49,4.0,Sunday
+Lemonade,Beverages,40,1,3,10.47,,Sunday
+Lemonade,Beverages,47,2,4,13.96,4.0,Sunday
+Lemonade,Beverages,49,2,5,17.45,2.5,Sunday
+Lemonade,Beverages,51,1,4,13.96,4.0,Sunday
+Mango Smoothie,Beverages,1,1,1,5.49,4.0,Saturday
+Mango Smoothie,Beverages,11,1,2,10.98,4.0,Saturday
+Mango Smoothie,Beverages,18,1,2,10.98,4.0,Saturday
+Mango Smoothie,Beverages,20,1,1,5.49,,Saturday
+Mango Smoothie,Beverages,23,1,1,5.49,,Saturday
+Mango Smoothie,Beverages,24,1,1,5.49,3.0,Saturday
+Mango Smoothie,Beverages,26,1,1,5.49,,Saturday
+Mango Smoothie,Beverages,27,1,2,10.98,4.0,Saturday
+Mango Smoothie,Beverages,29,2,8,43.92,5.0,Saturday
+Mango Smoothie,Beverages,30,1,2,10.98,3.0,Saturday
+Mango Smoothie,Beverages,31,2,3,16.47,4.0,Saturday
+Mango Smoothie,Beverages,32,2,3,15.65,5.0,Saturday
+Mango Smoothie,Beverages,35,2,7,35.97,1.5,Saturday
+Mango Smoothie,Beverages,37,1,3,16.47,5.0,Saturday
+Mango Smoothie,Beverages,39,1,2,10.98,5.0,Saturday
+Mango Smoothie,Beverages,40,1,2,10.98,4.0,Saturday
+Mango Smoothie,Beverages,48,2,8,43.92,4.0,Saturday
+Mango Smoothie,Beverages,52,1,1,4.67,2.0,Saturday
+Margherita Pizza,Pizza,1,1,3,33.12,4.0,Saturday
+Margherita Pizza,Pizza,2,1,1,11.04,5.0,Saturday
+Margherita Pizza,Pizza,4,2,3,37.02,2.0,Saturday
+Margherita Pizza,Pizza,5,3,6,77.94,4.0,Saturday
+Margherita Pizza,Pizza,6,2,4,51.96,3.5,Saturday
+Margherita Pizza,Pizza,8,1,1,12.99,3.0,Saturday
+Margherita Pizza,Pizza,10,2,2,24.03,4.5,Saturday
+Margherita Pizza,Pizza,11,4,11,140.94,4.5,Saturday
+Margherita Pizza,Pizza,12,1,5,64.95,5.0,Saturday
+Margherita Pizza,Pizza,13,2,3,38.97,4.0,Saturday
+Margherita Pizza,Pizza,14,2,2,25.98,4.0,Saturday
+Margherita Pizza,Pizza,15,1,2,25.98,,Saturday
+Margherita Pizza,Pizza,16,1,1,11.04,,Saturday
+Margherita Pizza,Pizza,17,2,5,59.1,4.0,Saturday
+Margherita Pizza,Pizza,21,2,7,90.93,4.0,Saturday
+Margherita Pizza,Pizza,22,1,1,11.04,,Saturday
+Margherita Pizza,Pizza,23,1,1,12.99,4.0,Saturday
+Margherita Pizza,Pizza,24,2,2,25.98,5.0,Saturday
+Margherita Pizza,Pizza,25,1,4,44.16,3.0,Saturday
+Margherita Pizza,Pizza,26,4,12,146.13,4.5,Saturday
+Margherita Pizza,Pizza,27,1,4,51.96,4.0,Saturday
+Margherita Pizza,Pizza,32,2,5,64.95,3.5,Saturday
+Margherita Pizza,Pizza,33,2,2,25.98,5.0,Saturday
+Margherita Pizza,Pizza,34,2,2,25.98,3.0,Saturday
+Margherita Pizza,Pizza,36,4,5,64.95,4.25,Saturday
+Margherita Pizza,Pizza,37,1,3,38.97,,Saturday
+Margherita Pizza,Pizza,38,1,3,38.97,4.0,Saturday
+Margherita Pizza,Pizza,42,1,1,11.04,3.0,Saturday
+Margherita Pizza,Pizza,43,2,3,37.02,3.5,Saturday
+Margherita Pizza,Pizza,44,3,9,107.16,4.33,Saturday
+Margherita Pizza,Pizza,45,1,1,12.99,,Saturday
+Margherita Pizza,Pizza,46,1,1,12.99,5.0,Saturday
+Margherita Pizza,Pizza,47,1,1,12.99,,Saturday
+Margherita Pizza,Pizza,48,1,1,12.99,,Saturday
+Margherita Pizza,Pizza,51,1,2,25.98,5.0,Saturday
+Mushroom Soup,Soups,1,1,5,34.95,2.0,Sunday
+Mushroom Soup,Soups,2,1,1,6.99,5.0,Sunday
+Mushroom Soup,Soups,3,1,1,6.99,,Sunday
+Mushroom Soup,Soups,4,1,1,6.99,4.0,Sunday
+Mushroom Soup,Soups,5,2,8,50.67,4.5,Sunday
+Mushroom Soup,Soups,12,1,1,6.99,4.0,Sunday
+Mushroom Soup,Soups,15,1,1,6.99,,Sunday
+Mushroom Soup,Soups,20,2,3,18.87,5.0,Sunday
+Mushroom Soup,Soups,26,2,5,33.9,5.0,Sunday
+Mushroom Soup,Soups,28,1,2,13.98,,Sunday
+Mushroom Soup,Soups,36,1,1,5.94,,Sunday
+Mushroom Soup,Soups,38,1,1,6.99,3.0,Sunday
+Mushroom Soup,Soups,43,1,1,5.94,5.0,Sunday
+Mushroom Soup,Soups,45,1,2,13.98,4.0,Sunday
+Mushroom Soup,Soups,46,1,1,5.94,5.0,Sunday
+Mushroom Soup,Soups,48,1,3,20.97,,Sunday
+Mushroom Soup,Soups,51,2,3,20.97,4.0,Sunday
+Onion Rings,Sides,2,1,1,4.49,4.0,Sunday
+Onion Rings,Sides,3,1,1,3.82,,Sunday
+Onion Rings,Sides,7,1,2,8.98,3.0,Sunday
+Onion Rings,Sides,9,1,3,13.47,5.0,Sunday
+Onion Rings,Sides,11,1,2,8.98,,Sunday
+Onion Rings,Sides,12,1,1,3.82,,Sunday
+Onion Rings,Sides,14,1,1,4.49,4.0,Sunday
+Onion Rings,Sides,16,2,6,26.94,4.0,Sunday
+Onion Rings,Sides,17,1,2,8.98,4.0,Sunday
+Onion Rings,Sides,21,1,5,19.1,2.0,Sunday
+Onion Rings,Sides,26,3,9,39.74,3.5,Sunday
+Onion Rings,Sides,27,2,3,12.13,4.0,Sunday
+Onion Rings,Sides,28,3,3,13.47,4.0,Sunday
+Onion Rings,Sides,31,1,3,13.47,4.0,Sunday
+Onion Rings,Sides,34,1,1,3.82,,Sunday
+Onion Rings,Sides,37,1,1,4.49,,Sunday
+Onion Rings,Sides,38,1,3,13.47,3.0,Sunday
+Onion Rings,Sides,39,2,6,26.94,4.0,Sunday
+Onion Rings,Sides,41,2,6,26.94,5.0,Sunday
+Onion Rings,Sides,42,1,4,17.96,,Sunday
+Onion Rings,Sides,43,1,1,4.49,4.0,Sunday
+Onion Rings,Sides,46,1,1,4.49,,Sunday
+Onion Rings,Sides,47,1,3,13.47,1.0,Sunday
+Onion Rings,Sides,49,1,1,4.49,,Sunday
+Onion Rings,Sides,52,1,1,4.49,4.0,Sunday
+Penne Arrabbiata,Pasta,3,1,2,20.38,4.0,Saturday
+Penne Arrabbiata,Pasta,6,1,1,11.99,,Saturday
+Penne Arrabbiata,Pasta,7,2,3,35.97,4.0,Saturday
+Penne Arrabbiata,Pasta,8,2,2,20.38,5.0,Saturday
+Penne Arrabbiata,Pasta,10,2,3,35.97,5.0,Saturday
+Penne Arrabbiata,Pasta,15,2,6,71.94,4.0,Saturday
+Penne Arrabbiata,Pasta,19,1,1,11.99,,Saturday
+Penne Arrabbiata,Pasta,20,1,1,11.99,5.0,Saturday
+Penne Arrabbiata,Pasta,22,1,1,11.99,,Saturday
+Penne Arrabbiata,Pasta,25,1,1,11.99,,Saturday
+Penne Arrabbiata,Pasta,27,1,1,11.99,4.0,Saturday
+Penne Arrabbiata,Pasta,28,1,2,23.98,,Saturday
+Penne Arrabbiata,Pasta,29,1,1,11.99,4.0,Saturday
+Penne Arrabbiata,Pasta,31,1,1,11.99,,Saturday
+Penne Arrabbiata,Pasta,35,3,4,47.96,4.5,Saturday
+Penne Arrabbiata,Pasta,36,1,3,35.97,4.0,Saturday
+Penne Arrabbiata,Pasta,37,1,1,11.99,2.0,Saturday
+Penne Arrabbiata,Pasta,40,1,1,11.99,,Saturday
+Penne Arrabbiata,Pasta,41,2,3,35.97,4.5,Saturday
+Penne Arrabbiata,Pasta,44,1,3,35.97,5.0,Saturday
+Penne Arrabbiata,Pasta,45,1,2,23.98,4.0,Saturday
+Penne Arrabbiata,Pasta,46,2,3,35.97,4.0,Saturday
+Penne Arrabbiata,Pasta,50,1,3,35.97,4.0,Saturday
+Penne Arrabbiata,Pasta,51,1,1,11.99,5.0,Saturday
+Pepperoni Pizza,Pizza,1,1,1,14.49,4.0,Sunday
+Pepperoni Pizza,Pizza,5,2,6,78.26,4.0,Sunday
+Pepperoni Pizza,Pizza,6,2,4,57.96,3.5,Sunday
+Pepperoni Pizza,Pizza,9,2,6,86.94,,Sunday
+Pepperoni Pizza,Pizza,10,1,2,28.98,5.0,Sunday
+Pepperoni Pizza,Pizza,11,1,1,14.49,2.0,Sunday
+Pepperoni Pizza,Pizza,12,1,3,43.47,,Sunday
+Pepperoni Pizza,Pizza,14,1,1,14.49,5.0,Sunday
+Pepperoni Pizza,Pizza,15,1,1,12.32,4.0,Sunday
+Pepperoni Pizza,Pizza,16,1,4,57.96,4.0,Sunday
+Pepperoni Pizza,Pizza,17,1,1,12.32,5.0,Sunday
+Pepperoni Pizza,Pizza,19,3,5,72.45,3.33,Sunday
+Pepperoni Pizza,Pizza,23,1,2,28.98,1.0,Sunday
+Pepperoni Pizza,Pizza,28,1,3,43.47,2.0,Sunday
+Pepperoni Pizza,Pizza,29,1,4,57.96,4.0,Sunday
+Pepperoni Pizza,Pizza,30,1,4,57.96,5.0,Sunday
+Pepperoni Pizza,Pizza,31,1,1,12.32,2.0,Sunday
+Pepperoni Pizza,Pizza,32,1,5,72.45,3.0,Sunday
+Pepperoni Pizza,Pizza,33,1,1,14.49,3.0,Sunday
+Pepperoni Pizza,Pizza,34,1,1,14.49,5.0,Sunday
+Pepperoni Pizza,Pizza,35,1,1,14.49,4.0,Sunday
+Pepperoni Pizza,Pizza,36,2,6,76.09,4.5,Sunday
+Pepperoni Pizza,Pizza,37,1,1,14.49,3.0,Sunday
+Pepperoni Pizza,Pizza,40,2,6,73.92,4.5,Sunday
+Pepperoni Pizza,Pizza,42,2,6,86.94,4.5,Sunday
+Pepperoni Pizza,Pizza,43,2,2,26.81,3.5,Sunday
+Pepperoni Pizza,Pizza,44,1,3,36.96,5.0,Sunday
+Pepperoni Pizza,Pizza,45,1,2,28.98,,Sunday
+Pepperoni Pizza,Pizza,46,5,14,200.69,4.25,Sunday
+Pepperoni Pizza,Pizza,47,2,6,86.94,4.0,Sunday
+Pepperoni Pizza,Pizza,48,2,5,61.6,5.0,Sunday
+Pepperoni Pizza,Pizza,49,1,1,14.49,5.0,Sunday
+Pepperoni Pizza,Pizza,50,2,3,43.47,,Sunday
+Pepperoni Pizza,Pizza,52,3,9,130.41,4.33,Sunday
+Shawarma Wrap,Wraps,1,2,6,59.94,3.0,Sunday
+Shawarma Wrap,Wraps,2,1,1,9.99,4.0,Sunday
+Shawarma Wrap,Wraps,3,1,1,9.99,5.0,Sunday
+Shawarma Wrap,Wraps,4,2,4,39.96,4.0,Sunday
+Shawarma Wrap,Wraps,5,2,3,29.97,3.0,Sunday
+Shawarma Wrap,Wraps,8,1,5,49.95,,Sunday
+Shawarma Wrap,Wraps,9,1,1,8.49,4.0,Sunday
+Shawarma Wrap,Wraps,10,1,1,9.99,,Sunday
+Shawarma Wrap,Wraps,11,2,4,38.46,4.0,Sunday
+Shawarma Wrap,Wraps,12,3,5,49.95,3.5,Sunday
+Shawarma Wrap,Wraps,13,1,1,9.99,5.0,Sunday
+Shawarma Wrap,Wraps,14,2,3,29.97,,Sunday
+Shawarma Wrap,Wraps,15,2,5,49.95,4.0,Sunday
+Shawarma Wrap,Wraps,18,1,2,19.98,4.0,Sunday
+Shawarma Wrap,Wraps,19,2,3,29.97,4.5,Sunday
+Shawarma Wrap,Wraps,20,2,5,45.45,4.0,Sunday
+Shawarma Wrap,Wraps,22,2,4,38.46,5.0,Sunday
+Shawarma Wrap,Wraps,23,1,3,29.97,5.0,Sunday
+Shawarma Wrap,Wraps,24,2,6,59.94,4.5,Sunday
+Shawarma Wrap,Wraps,26,2,2,19.98,4.0,Sunday
+Shawarma Wrap,Wraps,30,1,2,19.98,5.0,Sunday
+Shawarma Wrap,Wraps,31,2,4,39.96,,Sunday
+Shawarma Wrap,Wraps,32,2,2,19.98,3.5,Sunday
+Shawarma Wrap,Wraps,33,3,10,96.9,4.33,Sunday
+Shawarma Wrap,Wraps,36,1,4,39.96,3.0,Sunday
+Shawarma Wrap,Wraps,37,1,1,9.99,4.0,Sunday
+Shawarma Wrap,Wraps,38,1,1,9.99,,Sunday
+Shawarma Wrap,Wraps,39,1,1,9.99,5.0,Sunday
+Shawarma Wrap,Wraps,40,2,4,39.96,2.0,Sunday
+Shawarma Wrap,Wraps,41,1,1,9.99,2.0,Sunday
+Shawarma Wrap,Wraps,42,2,2,19.98,4.5,Sunday
+Shawarma Wrap,Wraps,44,2,3,29.97,4.0,Sunday
+Shawarma Wrap,Wraps,46,1,1,9.99,,Sunday
+Shawarma Wrap,Wraps,47,2,6,58.44,3.0,Sunday
+Shawarma Wrap,Wraps,49,4,7,68.43,4.0,Sunday
+Shawarma Wrap,Wraps,50,3,7,62.43,3.33,Sunday
+Shawarma Wrap,Wraps,51,2,4,39.96,2.0,Sunday
+Shawarma Wrap,Wraps,52,1,4,39.96,4.0,Sunday
+Spaghetti Carbonara,Pasta,1,3,4,53.96,4.5,Friday
+Spaghetti Carbonara,Pasta,2,2,4,53.96,4.0,Friday
+Spaghetti Carbonara,Pasta,3,1,1,13.49,3.0,Friday
+Spaghetti Carbonara,Pasta,4,5,7,92.41,3.8,Friday
+Spaghetti Carbonara,Pasta,5,2,4,53.96,3.0,Friday
+Spaghetti Carbonara,Pasta,6,2,2,22.94,4.0,Friday
+Spaghetti Carbonara,Pasta,7,1,1,13.49,,Friday
+Spaghetti Carbonara,Pasta,9,1,4,53.96,,Friday
+Spaghetti Carbonara,Pasta,10,1,1,13.49,1.0,Friday
+Spaghetti Carbonara,Pasta,11,1,1,13.49,4.0,Friday
+Spaghetti Carbonara,Pasta,12,1,2,26.98,5.0,Friday
+Spaghetti Carbonara,Pasta,13,1,2,26.98,4.0,Friday
+Spaghetti Carbonara,Pasta,14,1,1,13.49,4.0,Friday
+Spaghetti Carbonara,Pasta,16,1,3,34.41,,Friday
+Spaghetti Carbonara,Pasta,17,1,4,53.96,3.0,Friday
+Spaghetti Carbonara,Pasta,21,2,2,26.98,4.5,Friday
+Spaghetti Carbonara,Pasta,22,1,1,13.49,1.0,Friday
+Spaghetti Carbonara,Pasta,23,1,2,26.98,4.0,Friday
+Spaghetti Carbonara,Pasta,24,1,2,26.98,,Friday
+Spaghetti Carbonara,Pasta,25,1,3,40.47,,Friday
+Spaghetti Carbonara,Pasta,26,1,4,53.96,,Friday
+Spaghetti Carbonara,Pasta,28,1,1,13.49,3.0,Friday
+Spaghetti Carbonara,Pasta,29,1,3,40.47,5.0,Friday
+Spaghetti Carbonara,Pasta,31,2,4,53.96,4.0,Friday
+Spaghetti Carbonara,Pasta,32,1,1,11.47,5.0,Friday
+Spaghetti Carbonara,Pasta,37,1,3,40.47,4.0,Friday
+Spaghetti Carbonara,Pasta,46,1,2,26.98,2.0,Friday
+Spaghetti Carbonara,Pasta,48,1,4,53.96,4.0,Friday
+Spaghetti Carbonara,Pasta,49,1,4,53.96,,Friday
+Spaghetti Carbonara,Pasta,50,2,6,72.86,4.5,Friday
+Spaghetti Carbonara,Pasta,51,1,5,57.35,5.0,Friday
+Spaghetti Carbonara,Pasta,52,3,5,67.45,4.0,Friday
+Tomato Soup,Soups,1,2,8,51.92,3.5,Saturday
+Tomato Soup,Soups,2,2,3,19.47,3.5,Saturday
+Tomato Soup,Soups,3,1,3,19.47,4.0,Saturday
+Tomato Soup,Soups,4,1,2,12.98,1.0,Saturday
+Tomato Soup,Soups,5,1,2,11.04,5.0,Saturday
+Tomato Soup,Soups,6,1,2,12.98,3.0,Saturday
+Tomato Soup,Soups,21,1,1,6.49,2.0,Saturday
+Tomato Soup,Soups,25,1,5,27.6,5.0,Saturday
+Tomato Soup,Soups,32,2,3,19.47,4.0,Saturday
+Tomato Soup,Soups,35,2,4,25.96,5.0,Saturday
+Tomato Soup,Soups,41,1,2,11.04,,Saturday
+Tomato Soup,Soups,48,2,5,29.54,1.0,Saturday
+Tomato Soup,Soups,49,1,2,12.98,4.0,Saturday
+Tomato Soup,Soups,50,1,2,12.98,5.0,Saturday
+Veggie Burger,Burgers,1,2,3,28.47,5.0,Saturday
+Veggie Burger,Burgers,2,3,9,79.73,4.33,Saturday
+Veggie Burger,Burgers,5,2,4,37.96,4.0,Saturday
+Veggie Burger,Burgers,6,1,3,28.47,4.0,Saturday
+Veggie Burger,Burgers,17,1,4,32.28,4.0,Saturday
+Veggie Burger,Burgers,18,2,3,28.47,5.0,Saturday
+Veggie Burger,Burgers,20,2,6,55.52,4.5,Saturday
+Veggie Burger,Burgers,23,1,3,24.21,4.0,Saturday
+Veggie Burger,Burgers,24,1,4,32.28,4.0,Saturday
+Veggie Burger,Burgers,25,2,3,24.21,2.5,Saturday
+Veggie Burger,Burgers,26,1,1,9.49,4.0,Saturday
+Veggie Burger,Burgers,31,2,2,17.56,3.5,Saturday
+Veggie Burger,Burgers,33,2,4,32.28,,Saturday
+Veggie Burger,Burgers,37,1,1,9.49,4.0,Saturday
+Veggie Burger,Burgers,39,2,6,56.94,3.5,Saturday
+Veggie Burger,Burgers,41,1,3,24.21,4.0,Saturday
+Veggie Burger,Burgers,42,1,1,8.07,1.0,Saturday
+Veggie Burger,Burgers,43,1,3,28.47,5.0,Saturday
+Veggie Burger,Burgers,46,1,3,28.47,5.0,Saturday
+Veggie Burger,Burgers,47,1,3,28.47,5.0,Saturday
+Veggie Burger,Burgers,52,3,10,89.22,4.5,Saturday

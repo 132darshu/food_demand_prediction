@@ -1,0 +1,18 @@
+ingredient_name,supplier,alert_status,priority,closing_stock_kg,adjusted_burn_kg,order_qty_kg,estimated_cost_usd,order_date,expected_delivery,order_status
+Veggie Patty,EcoProvide,RED,1 - Urgent,23.87,-0.313,0.5,4.5,2026-06-07,2026-06-10,Draft
+Chocolate,GlobalFoods,RED,1 - Urgent,22.69,0.042,0.5,3.94,2026-06-07,2026-06-10,Draft
+Chocolate Sauce,GlobalFoods,RED,1 - Urgent,33.4,0.0,0.5,2.76,2026-06-07,2026-06-10,Draft
+Mushrooms,GlobalFoods,RED,1 - Urgent,38.94,-0.422,0.5,6.94,2026-06-07,2026-06-10,Draft
+Mint Leaves,FreshMart,RED,1 - Urgent,32.96,0.016,0.5,4.5,2026-06-07,2026-06-09,Draft
+Romaine Lettuce,FreshMart,YELLOW,2 - Normal,64.02,0.0,0.5,3.78,2026-06-07,2026-06-09,Draft
+Parsley,FreshMart,YELLOW,2 - Normal,130.66,-0.003,0.5,1.99,2026-06-07,2026-06-09,Draft
+Milk,GlobalFoods,YELLOW,2 - Normal,87.21,0.82,0.5,3.66,2026-06-07,2026-06-10,Draft
+Mango,FreshMart,YELLOW,2 - Normal,142.45,1.508,0.5,3.36,2026-06-07,2026-06-09,Draft
+Avocado,LocalFarm,YELLOW,2 - Normal,121.83,-0.111,0.5,4.38,2026-06-07,2026-06-08,Draft
+Lamb Meat,LocalFarm,YELLOW,2 - Normal,116.79,1.246,0.5,2.88,2026-06-07,2026-06-08,Draft
+Fresh Basil,FarmDirect,YELLOW,2 - Normal,130.61,-0.035,0.5,1.82,2026-06-07,2026-06-08,Draft
+Cream,QuickSupply,YELLOW,2 - Normal,30.13,-0.099,0.5,4.92,2026-06-07,2026-06-09,Draft
+Chicken Breast,EcoProvide,YELLOW,2 - Normal,65.69,0.454,0.5,1.53,2026-06-07,2026-06-10,Draft
+Beef Patty,GlobalFoods,YELLOW,2 - Normal,59.42,0.549,0.5,2.08,2026-06-07,2026-06-10,Draft
+Tomatoes,QuickSupply,YELLOW,2 - Normal,38.27,0.0,0.5,5.98,2026-06-07,2026-06-09,Draft
+Lemons,FreshMart,YELLOW,2 - Normal,74.05,0.29,0.5,5.33,2026-06-07,2026-06-09,Draft

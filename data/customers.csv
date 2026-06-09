@@ -1,0 +1,429 @@
+customer_id,age_group,gender,loyalty_tier,total_orders,total_spend_usd,avg_rating_given,preferred_payment,preferred_branch,favorite_dish,first_order_date,last_order_date,repeat_customer,most_active_day
+CUST-1001,55+,Female,Bronze,3,91.3,4.67,Cash,Airport,Chicken Biryani,2024-02-16,2024-11-03,Yes,Friday
+CUST-1002,25-34,Female,Platinum,3,93.42,3.33,Online,Airport,Cheesecake,2024-03-18,2024-11-16,Yes,Monday
+CUST-1003,18-24,Prefer not to say,Platinum,2,69.95,,Digital Wallet,City Center,Chicken Biryani,2024-08-06,2024-09-15,Yes,Sunday
+CUST-1004,55+,Female,Bronze,4,33.28,4.0,Digital Wallet,Airport,Caesar Salad,2024-02-27,2024-11-18,Yes,Friday
+CUST-1006,18-24,Male,Gold,4,57.9,5.0,Credit Card,Suburbs,Lemonade,2024-06-19,2024-12-28,Yes,Tuesday
+CUST-1007,18-24,Prefer not to say,Silver,1,23.78,4.0,Debit Card,Downtown,Chicken Biryani,2024-02-01,2024-02-01,No,Thursday
+CUST-1008,55+,Male,Silver,3,33.92,3.0,Cash,Downtown,Iced Coffee,2024-03-28,2024-09-18,Yes,Thursday
+CUST-1009,45-54,Female,Platinum,1,8.49,5.0,Credit Card,City Center,Falafel Wrap,2024-05-13,2024-05-13,No,Monday
+CUST-1010,25-34,Female,Bronze,1,70.1,4.0,Cash,Airport,Lamb Biryani,2024-10-29,2024-10-29,No,Tuesday
+CUST-1011,55+,Female,Silver,1,34.47,,Cash,Suburbs,Double Cheeseburger,2024-08-25,2024-08-25,No,Sunday
+CUST-1013,25-34,Male,Gold,1,42.45,5.0,Credit Card,City Center,Greek Salad,2024-07-25,2024-07-25,No,Thursday
+CUST-1014,18-24,Female,Platinum,1,3.99,4.0,Cash,Downtown,French Fries,2024-05-30,2024-05-30,No,Thursday
+CUST-1015,45-54,Prefer not to say,Platinum,2,46.02,5.0,Debit Card,Mall Branch,Classic Burger,2024-11-02,2024-12-29,Yes,Saturday
+CUST-1016,45-54,Male,Gold,1,11.47,2.0,Digital Wallet,City Center,Spaghetti Carbonara,2024-01-22,2024-01-22,No,Monday
+CUST-1017,35-44,Male,Bronze,2,42.94,4.5,Digital Wallet,Downtown,Classic Burger,2024-06-26,2024-10-05,Yes,Saturday
+CUST-1018,18-24,Female,Bronze,1,17.98,4.0,Digital Wallet,Downtown,Classic Burger,2024-06-22,2024-06-22,No,Saturday
+CUST-1019,55+,Male,Silver,1,17.98,,Digital Wallet,City Center,Classic Burger,2024-08-08,2024-08-08,No,Thursday
+CUST-1020,18-24,Female,Silver,1,8.49,,Credit Card,Mall Branch,Falafel Wrap,2024-02-03,2024-02-03,No,Saturday
+CUST-1021,35-44,Male,Bronze,2,66.41,3.5,Cash,Downtown,Cheesecake,2024-02-23,2024-06-24,Yes,Friday
+CUST-1022,35-44,Female,Platinum,1,35.97,5.0,Cash,City Center,Penne Arrabbiata,2024-11-02,2024-11-02,No,Saturday
+CUST-1023,35-44,Female,Bronze,6,130.53,4.5,Cash,Suburbs,Spaghetti Carbonara,2024-01-22,2024-11-05,Yes,Saturday
+CUST-1024,55+,Prefer not to say,Gold,3,40.43,4.0,Cash,City Center,Ice Cream Sundae,2024-02-10,2024-11-26,Yes,Saturday
+CUST-1025,18-24,Male,Gold,1,10.98,4.0,Online,Downtown,Mango Smoothie,2024-03-16,2024-03-16,No,Saturday
+CUST-1026,25-34,Female,Bronze,1,8.49,4.0,Digital Wallet,Airport,Greek Salad,2024-01-20,2024-01-20,No,Saturday
+CUST-1027,45-54,Male,Gold,1,39.96,5.0,Cash,Mall Branch,Shawarma Wrap,2024-08-14,2024-08-14,No,Wednesday
+CUST-1028,18-24,Prefer not to say,Silver,2,71.41,5.0,Debit Card,Airport,Cheesecake,2024-08-31,2024-09-29,Yes,Saturday
+CUST-1029,55+,Prefer not to say,Bronze,2,25.3,2.0,Credit Card,Mall Branch,Pepperoni Pizza,2024-08-04,2024-09-01,Yes,Sunday
+CUST-1030,45-54,Female,Bronze,2,34.96,5.0,Cash,City Center,Classic Burger,2024-11-04,2024-12-28,Yes,Monday
+CUST-1032,55+,Male,Bronze,1,10.18,,Debit Card,Airport,Cheesecake,2024-07-01,2024-07-01,No,Monday
+CUST-1033,35-44,Prefer not to say,Silver,1,5.94,5.0,Credit Card,City Center,Chocolate Lava Cake,2024-01-26,2024-01-26,No,Friday
+CUST-1034,45-54,Female,Gold,2,32.47,2.0,Debit Card,Airport,Margherita Pizza,2024-04-08,2024-05-26,Yes,Monday
+CUST-1035,55+,Male,Silver,3,60.54,3.0,Cash,Suburbs,Cheesecake,2024-02-11,2024-11-23,Yes,Saturday
+CUST-1036,25-34,Male,Platinum,2,14.96,5.0,Digital Wallet,Suburbs,Hot Coffee,2024-01-25,2024-03-10,Yes,Sunday
+CUST-1038,45-54,Female,Bronze,2,35.47,4.0,Credit Card,Downtown,Double Cheeseburger,2024-04-21,2024-07-11,Yes,Sunday
+CUST-1039,18-24,Female,Platinum,1,17.98,2.0,Credit Card,Mall Branch,Classic Burger,2024-12-09,2024-12-09,No,Monday
+CUST-1040,45-54,Female,Gold,1,8.49,,Cash,Mall Branch,Falafel Wrap,2024-07-26,2024-07-26,No,Friday
+CUST-1041,18-24,Prefer not to say,Bronze,2,44.72,2.0,Credit Card,Airport,Double Cheeseburger,2024-01-06,2024-04-07,Yes,Saturday
+CUST-1042,35-44,Male,Platinum,1,82.45,5.0,Online,City Center,Lamb Biryani,2024-09-07,2024-09-07,No,Saturday
+CUST-1043,35-44,Prefer not to say,Silver,3,45.93,4.5,Cash,Airport,Ice Cream Sundae,2024-06-15,2024-12-30,Yes,Monday
+CUST-1044,18-24,Female,Platinum,1,31.98,3.0,Debit Card,Airport,BBQ Chicken Pizza,2024-04-06,2024-04-06,No,Saturday
+CUST-1045,35-44,Prefer not to say,Silver,3,29.47,4.0,Cash,Airport,Classic Burger,2024-01-25,2024-05-28,Yes,Tuesday
+CUST-1046,25-34,Prefer not to say,Gold,1,15.27,5.0,Debit Card,City Center,Cheesecake,2024-08-03,2024-08-03,No,Saturday
+CUST-1048,18-24,Prefer not to say,Silver,2,31.95,5.0,Digital Wallet,Airport,Mango Smoothie,2024-01-30,2024-09-28,Yes,Saturday
+CUST-1049,55+,Female,Bronze,2,19.98,,Cash,City Center,BBQ Chicken Pizza,2024-03-14,2024-05-18,Yes,Saturday
+CUST-1051,25-34,Prefer not to say,Bronze,1,28.98,4.0,Debit Card,Mall Branch,Pepperoni Pizza,2024-12-24,2024-12-24,No,Tuesday
+CUST-1052,25-34,Female,Platinum,3,49.67,4.0,Credit Card,Downtown,Greek Salad,2024-08-04,2024-11-12,Yes,Tuesday
+CUST-1054,35-44,Prefer not to say,Platinum,3,58.83,1.67,Debit Card,Airport,Classic Burger,2024-01-06,2024-12-22,Yes,Sunday
+CUST-1055,45-54,Female,Platinum,1,6.99,2.0,Online,Downtown,Chocolate Lava Cake,2024-11-28,2024-11-28,No,Thursday
+CUST-1056,45-54,Female,Silver,1,13.49,5.0,Digital Wallet,Mall Branch,Spaghetti Carbonara,2024-01-27,2024-01-27,No,Saturday
+CUST-1057,35-44,Male,Gold,1,29.97,5.0,Digital Wallet,Suburbs,Shawarma Wrap,2024-06-06,2024-06-06,No,Thursday
+CUST-1058,25-34,Female,Platinum,2,71.13,2.5,Cash,City Center,Classic Burger,2024-06-19,2024-09-28,Yes,Saturday
+CUST-1059,35-44,Male,Silver,5,101.38,4.0,Credit Card,City Center,Pepperoni Pizza,2024-02-02,2024-10-04,Yes,Friday
+CUST-1060,45-54,Male,Bronze,1,17.98,5.0,Digital Wallet,Suburbs,Classic Burger,2024-08-19,2024-08-19,No,Monday
+CUST-1062,25-34,Male,Platinum,4,49.94,4.0,Credit Card,City Center,Double Cheeseburger,2024-01-23,2024-12-09,Yes,Monday
+CUST-1063,55+,Male,Bronze,4,123.41,4.0,Credit Card,Airport,Margherita Pizza,2024-02-05,2024-07-01,Yes,Monday
+CUST-1064,25-34,Female,Bronze,3,69.39,4.0,Cash,Airport,Chocolate Lava Cake,2024-03-12,2024-05-05,Yes,Saturday
+CUST-1065,18-24,Male,Bronze,1,8.49,4.0,Debit Card,Airport,Falafel Wrap,2024-10-27,2024-10-27,No,Sunday
+CUST-1066,25-34,Prefer not to say,Silver,4,75.48,4.0,Credit Card,Suburbs,Lamb Biryani,2024-02-22,2024-12-17,Yes,Friday
+CUST-1067,18-24,Prefer not to say,Silver,1,16.98,3.0,Debit Card,Airport,Falafel Wrap,2024-04-04,2024-04-04,No,Thursday
+CUST-1068,25-34,Female,Bronze,3,47.4,5.0,Online,City Center,Double Cheeseburger,2024-07-14,2024-10-04,Yes,Friday
+CUST-1069,45-54,Male,Bronze,2,47.4,5.0,Debit Card,City Center,Margherita Pizza,2024-04-20,2024-08-12,Yes,Monday
+CUST-1070,55+,Female,Gold,3,75.43,4.0,Cash,Airport,Caesar Salad,2024-03-02,2024-10-23,Yes,Saturday
+CUST-1072,45-54,Prefer not to say,Gold,3,48.95,4.67,Online,Airport,BBQ Chicken Pizza,2024-06-21,2024-12-14,Yes,Friday
+CUST-1073,18-24,Female,Platinum,1,26.98,,Credit Card,Downtown,Spaghetti Carbonara,2024-01-10,2024-01-10,No,Wednesday
+CUST-1074,18-24,Prefer not to say,Bronze,1,17.98,5.0,Digital Wallet,Downtown,Classic Burger,2024-10-28,2024-10-28,No,Monday
+CUST-1075,45-54,Female,Gold,4,45.35,4.33,Debit Card,Airport,BBQ Chicken Pizza,2024-01-16,2024-05-26,Yes,Tuesday
+CUST-1076,35-44,Female,Bronze,3,27.47,3.33,Cash,Airport,Double Cheeseburger,2024-07-08,2024-12-12,Yes,Monday
+CUST-1077,35-44,Male,Gold,2,42.96,2.0,Cash,Downtown,Falafel Wrap,2024-02-03,2024-04-27,Yes,Saturday
+CUST-1078,45-54,Prefer not to say,Bronze,1,8.99,,Online,Airport,Caesar Salad,2024-09-05,2024-09-05,No,Thursday
+CUST-1079,45-54,Prefer not to say,Silver,1,7.22,2.0,Credit Card,Airport,Falafel Wrap,2024-03-14,2024-03-14,No,Thursday
+CUST-1080,25-34,Prefer not to say,Silver,4,99.2,5.0,Digital Wallet,City Center,BBQ Chicken Pizza,2024-03-21,2024-09-16,Yes,Monday
+CUST-1081,45-54,Prefer not to say,Platinum,1,8.98,4.0,Debit Card,Airport,Onion Rings,2024-09-29,2024-09-29,No,Sunday
+CUST-1082,25-34,Female,Bronze,2,16.48,4.0,Credit Card,City Center,Lemonade,2024-04-29,2024-09-07,Yes,Monday
+CUST-1084,18-24,Female,Gold,3,24.91,3.5,Digital Wallet,City Center,Hot Coffee,2024-02-13,2024-10-05,Yes,Tuesday
+CUST-1085,18-24,Male,Platinum,3,35.29,4.5,Credit Card,City Center,Iced Coffee,2024-01-25,2024-07-14,Yes,Sunday
+CUST-1087,18-24,Prefer not to say,Silver,1,25.98,,Digital Wallet,Suburbs,Margherita Pizza,2024-03-11,2024-03-11,No,Monday
+CUST-1088,55+,Prefer not to say,Gold,1,49.47,4.0,Credit Card,Suburbs,Lamb Biryani,2024-08-31,2024-08-31,No,Saturday
+CUST-1089,45-54,Female,Gold,4,71.93,3.0,Digital Wallet,Airport,Chocolate Lava Cake,2024-02-01,2024-07-31,Yes,Saturday
+CUST-1090,55+,Male,Bronze,5,100.83,4.2,Cash,Airport,Cheesecake,2024-03-12,2024-10-19,Yes,Sunday
+CUST-1091,55+,Prefer not to say,Gold,3,45.84,4.0,Debit Card,Airport,Falafel Wrap,2024-01-19,2024-10-14,Yes,Monday
+CUST-1092,45-54,Prefer not to say,Platinum,2,28.96,4.5,Cash,Airport,Cheesecake,2024-06-15,2024-09-01,Yes,Saturday
+CUST-1093,35-44,Prefer not to say,Silver,1,8.99,4.0,Cash,Downtown,Caesar Salad,2024-06-04,2024-06-04,No,Tuesday
+CUST-1094,25-34,Prefer not to say,Platinum,1,6.99,,Credit Card,Suburbs,Mushroom Soup,2024-01-18,2024-01-18,No,Thursday
+CUST-1097,35-44,Female,Silver,1,18.98,3.0,Online,City Center,Veggie Burger,2024-02-03,2024-02-03,No,Saturday
+CUST-1098,55+,Male,Bronze,1,20.97,,Cash,Airport,Mushroom Soup,2024-11-28,2024-11-28,No,Thursday
+CUST-1099,25-34,Male,Gold,3,94.93,5.0,Credit Card,Airport,BBQ Chicken Pizza,2024-03-14,2024-12-11,Yes,Saturday
+CUST-1100,55+,Female,Platinum,2,14.53,4.0,Credit Card,Airport,Lemonade,2024-03-04,2024-06-11,Yes,Monday
+CUST-1101,18-24,Prefer not to say,Gold,1,14.49,2.0,Online,Suburbs,Pepperoni Pizza,2024-05-09,2024-05-09,No,Thursday
+CUST-1102,35-44,Female,Silver,3,38.93,3.5,Credit Card,Downtown,BBQ Chicken Pizza,2024-01-24,2024-11-07,Yes,Thursday
+CUST-1104,25-34,Prefer not to say,Platinum,3,67.94,5.0,Credit Card,Airport,Chicken Biryani,2024-04-29,2024-11-22,Yes,Friday
+CUST-1105,25-34,Female,Bronze,2,53.5,,Cash,Airport,Chicken Biryani,2024-07-18,2024-11-23,Yes,Saturday
+CUST-1106,55+,Male,Gold,1,3.49,3.0,Credit Card,Suburbs,Hot Coffee,2024-09-19,2024-09-19,No,Thursday
+CUST-1107,45-54,Female,Silver,4,109.9,3.75,Cash,Downtown,BBQ Chicken Pizza,2024-03-28,2024-12-21,Yes,Friday
+CUST-1108,45-54,Prefer not to say,Gold,1,21.96,,Digital Wallet,Suburbs,Mango Smoothie,2024-11-29,2024-11-29,No,Friday
+CUST-1109,45-54,Female,Silver,3,107.61,3.0,Debit Card,Airport,French Fries,2024-02-04,2024-12-23,Yes,Friday
+CUST-1111,18-24,Prefer not to say,Silver,3,32.46,3.5,Credit Card,Airport,French Fries,2024-05-04,2024-08-10,Yes,Saturday
+CUST-1112,35-44,Male,Bronze,2,31.47,5.0,Cash,Downtown,Greek Salad,2024-03-04,2024-12-07,Yes,Monday
+CUST-1113,18-24,Male,Gold,3,41.96,4.0,Cash,Airport,Chicken Biryani,2024-03-12,2024-10-27,Yes,Sunday
+CUST-1114,55+,Male,Platinum,2,14.97,5.0,Online,Airport,French Fries,2024-08-04,2024-10-12,Yes,Saturday
+CUST-1115,55+,Female,Silver,2,36.11,5.0,Digital Wallet,City Center,Iced Coffee,2024-06-06,2024-11-22,Yes,Friday
+CUST-1116,25-34,Female,Platinum,1,12.99,,Digital Wallet,Downtown,Margherita Pizza,2024-06-15,2024-06-15,No,Saturday
+CUST-1117,18-24,Female,Bronze,5,71.89,4.0,Online,Airport,Mango Smoothie,2024-01-28,2024-12-31,Yes,Sunday
+CUST-1118,25-34,Male,Platinum,2,29.96,4.0,Cash,Mall Branch,Ice Cream Sundae,2024-07-09,2024-08-10,Yes,Saturday
+CUST-1123,45-54,Female,Bronze,3,71.93,3.67,Digital Wallet,Airport,Classic Burger,2024-02-23,2024-08-10,Yes,Friday
+CUST-1125,55+,Prefer not to say,Platinum,2,31.47,5.0,Digital Wallet,Downtown,Classic Burger,2024-01-01,2024-04-19,Yes,Friday
+CUST-1126,18-24,Male,Bronze,5,124.38,3.8,Digital Wallet,City Center,French Fries,2024-03-10,2024-11-17,Yes,Sunday
+CUST-1127,45-54,Female,Gold,1,15.99,5.0,Digital Wallet,Suburbs,BBQ Chicken Pizza,2024-07-01,2024-07-01,No,Monday
+CUST-1128,55+,Prefer not to say,Platinum,3,55.08,4.67,Credit Card,Suburbs,Margherita Pizza,2024-04-04,2024-06-19,Yes,Friday
+CUST-1129,55+,Prefer not to say,Silver,5,61.66,3.8,Cash,Mall Branch,Chicken Biryani,2024-04-30,2024-11-03,Yes,Sunday
+CUST-1130,35-44,Male,Gold,3,61.42,5.0,Digital Wallet,Downtown,Chicken Biryani,2024-01-21,2024-10-06,Yes,Sunday
+CUST-1132,45-54,Female,Silver,1,8.99,5.0,Cash,City Center,Classic Burger,2024-11-13,2024-11-13,No,Wednesday
+CUST-1133,55+,Male,Gold,3,79.02,4.33,Credit Card,Airport,Spaghetti Carbonara,2024-04-16,2024-11-29,Yes,Friday
+CUST-1135,35-44,Prefer not to say,Bronze,2,22.48,4.5,Cash,Airport,Chicken Biryani,2024-05-30,2024-11-16,Yes,Saturday
+CUST-1136,35-44,Prefer not to say,Gold,2,23.97,4.0,Debit Card,City Center,Ice Cream Sundae,2024-01-31,2024-05-26,Yes,Sunday
+CUST-1137,35-44,Male,Silver,2,35.96,5.0,Digital Wallet,Mall Branch,Falafel Wrap,2024-02-04,2024-09-30,Yes,Monday
+CUST-1138,55+,Prefer not to say,Platinum,3,30.47,5.0,Debit Card,Suburbs,Shawarma Wrap,2024-05-27,2024-10-05,Yes,Monday
+CUST-1139,25-34,Prefer not to say,Silver,2,51.45,4.5,Cash,Mall Branch,BBQ Chicken Pizza,2024-01-15,2024-12-08,Yes,Monday
+CUST-1140,35-44,Female,Platinum,3,36.95,2.5,Digital Wallet,City Center,Onion Rings,2024-02-12,2024-11-24,Yes,Sunday
+CUST-1141,55+,Male,Bronze,2,48.94,2.5,Credit Card,City Center,Chicken Biryani,2024-01-08,2024-05-17,Yes,Friday
+CUST-1142,35-44,Female,Platinum,5,50.95,3.0,Debit Card,Mall Branch,Chicken Biryani,2024-05-11,2024-10-26,Yes,Saturday
+CUST-1143,18-24,Male,Platinum,3,32.92,2.67,Online,City Center,Chocolate Lava Cake,2024-01-15,2024-12-05,Yes,Thursday
+CUST-1144,35-44,Male,Silver,7,129.56,3.4,Cash,Airport,Classic Burger,2024-02-03,2024-10-20,Yes,Sunday
+CUST-1145,55+,Prefer not to say,Silver,3,62.92,4.67,Credit Card,Airport,French Fries,2024-01-27,2024-03-19,Yes,Saturday
+CUST-1146,18-24,Female,Silver,3,44.96,4.0,Credit Card,Airport,Chicken Biryani,2024-05-19,2024-10-07,Yes,Friday
+CUST-1147,18-24,Female,Bronze,3,19.97,3.5,Cash,Airport,Cheesecake,2024-04-19,2024-10-10,Yes,Friday
+CUST-1148,45-54,Prefer not to say,Bronze,1,11.88,,Digital Wallet,City Center,Chocolate Lava Cake,2024-12-06,2024-12-06,No,Friday
+CUST-1149,55+,Male,Gold,3,64.92,3.33,Credit Card,Suburbs,French Fries,2024-02-11,2024-06-30,Yes,Sunday
+CUST-1150,55+,Prefer not to say,Platinum,7,94.02,4.5,Cash,Airport,Classic Burger,2024-02-15,2024-12-19,Yes,Thursday
+CUST-1151,55+,Female,Bronze,2,33.96,5.0,Credit Card,Airport,French Fries,2024-04-09,2024-08-04,Yes,Sunday
+CUST-1152,18-24,Female,Bronze,3,49.95,3.67,Debit Card,Suburbs,Classic Burger,2024-08-22,2024-09-08,Yes,Sunday
+CUST-1153,55+,Prefer not to say,Silver,1,6.99,5.0,Credit Card,Suburbs,Mushroom Soup,2024-01-08,2024-01-08,No,Monday
+CUST-1154,25-34,Female,Gold,2,26.98,,Debit Card,Airport,Chicken Biryani,2024-08-17,2024-12-11,Yes,Saturday
+CUST-1155,18-24,Male,Silver,1,31.98,,Digital Wallet,Suburbs,BBQ Chicken Pizza,2024-09-14,2024-09-14,No,Saturday
+CUST-1157,55+,Prefer not to say,Gold,2,17.43,3.5,Cash,Airport,Double Cheeseburger,2024-02-09,2024-06-30,Yes,Friday
+CUST-1158,35-44,Female,Bronze,1,11.97,4.0,Cash,Downtown,French Fries,2024-07-03,2024-07-03,No,Wednesday
+CUST-1159,55+,Male,Silver,1,28.47,4.0,Digital Wallet,Mall Branch,Veggie Burger,2024-02-07,2024-02-07,No,Wednesday
+CUST-1160,45-54,Prefer not to say,Bronze,1,11.97,,Credit Card,Airport,French Fries,2024-11-23,2024-11-23,No,Saturday
+CUST-1161,35-44,Prefer not to say,Platinum,2,46.46,4.0,Debit Card,City Center,Chicken Biryani,2024-11-12,2024-11-12,Yes,Tuesday
+CUST-1163,35-44,Male,Gold,2,77.95,4.0,Cash,Mall Branch,Lamb Biryani,2024-08-29,2024-10-04,Yes,Friday
+CUST-1164,18-24,Female,Gold,3,107.92,4.0,Credit Card,City Center,BBQ Chicken Pizza,2024-07-30,2024-08-31,Yes,Friday
+CUST-1165,25-34,Prefer not to say,Silver,3,47.46,3.33,Cash,Mall Branch,Classic Burger,2024-03-26,2024-12-09,Yes,Monday
+CUST-1168,18-24,Male,Gold,3,70.44,4.67,Cash,Airport,BBQ Chicken Pizza,2024-05-13,2024-12-14,Yes,Monday
+CUST-1169,18-24,Prefer not to say,Bronze,3,20.96,5.0,Cash,City Center,French Fries,2024-03-18,2024-07-09,Yes,Monday
+CUST-1170,45-54,Prefer not to say,Platinum,3,45.71,5.0,Online,City Center,BBQ Chicken Pizza,2024-01-14,2024-06-09,Yes,Sunday
+CUST-1171,45-54,Female,Gold,1,35.67,5.0,Credit Card,Downtown,Chicken Biryani,2024-11-02,2024-11-02,No,Saturday
+CUST-1172,35-44,Male,Bronze,4,47.44,4.33,Debit Card,Downtown,Chicken Biryani,2024-01-22,2024-12-04,Yes,Wednesday
+CUST-1173,35-44,Male,Gold,1,5.49,,Credit Card,Mall Branch,Mango Smoothie,2024-06-06,2024-06-06,No,Thursday
+CUST-1175,45-54,Prefer not to say,Platinum,3,74.41,4.33,Cash,City Center,Chicken Biryani,2024-03-27,2024-07-05,Yes,Friday
+CUST-1176,18-24,Prefer not to say,Silver,1,40.47,3.0,Debit Card,Mall Branch,Spaghetti Carbonara,2024-01-31,2024-01-31,No,Wednesday
+CUST-1177,45-54,Female,Silver,1,5.49,4.0,Credit Card,Airport,Ice Cream Sundae,2024-07-24,2024-07-24,No,Wednesday
+CUST-1180,25-34,Female,Bronze,2,64.95,4.0,Cash,Mall Branch,BBQ Chicken Pizza,2024-10-27,2024-11-11,Yes,Monday
+CUST-1181,35-44,Male,Gold,3,36.04,4.5,Debit Card,City Center,BBQ Chicken Pizza,2024-06-09,2024-10-19,Yes,Saturday
+CUST-1182,45-54,Female,Bronze,1,47.97,,Cash,Suburbs,BBQ Chicken Pizza,2024-04-13,2024-04-13,No,Saturday
+CUST-1184,35-44,Male,Platinum,3,58.92,5.0,Credit Card,Airport,Cheesecake,2024-03-10,2024-12-04,Yes,Friday
+CUST-1185,25-34,Male,Gold,2,14.97,3.5,Debit Card,Downtown,French Fries,2024-06-17,2024-07-27,Yes,Monday
+CUST-1186,45-54,Female,Bronze,1,56.08,5.0,Debit Card,Downtown,Lamb Biryani,2024-09-15,2024-09-15,No,Sunday
+CUST-1187,35-44,Prefer not to say,Silver,3,42.97,5.0,Cash,Airport,Cheesecake,2024-06-02,2024-10-04,Yes,Sunday
+CUST-1188,35-44,Prefer not to say,Silver,4,111.5,3.33,Cash,Downtown,Hot Coffee,2024-04-21,2024-11-19,Yes,Saturday
+CUST-1191,45-54,Female,Gold,5,127.7,3.67,Cash,Suburbs,Classic Burger,2024-07-16,2024-11-29,Yes,Friday
+CUST-1193,18-24,Female,Silver,1,7.98,4.0,Credit Card,Airport,French Fries,2024-12-28,2024-12-28,No,Saturday
+CUST-1194,45-54,Prefer not to say,Gold,1,11.89,,Debit Card,Suburbs,Chicken Biryani,2024-06-01,2024-06-01,No,Saturday
+CUST-1195,45-54,Female,Silver,1,8.49,,Credit Card,Suburbs,Falafel Wrap,2024-05-20,2024-05-20,No,Monday
+CUST-1196,18-24,Female,Bronze,3,53.45,3.0,Credit Card,Airport,Classic Burger,2024-05-29,2024-08-07,Yes,Wednesday
+CUST-1197,35-44,Female,Bronze,1,11.49,4.0,Debit Card,Suburbs,Double Cheeseburger,2024-07-09,2024-07-09,No,Tuesday
+CUST-1198,18-24,Female,Gold,2,83.94,3.5,Credit Card,Downtown,BBQ Chicken Pizza,2024-07-15,2024-12-20,Yes,Friday
+CUST-1199,18-24,Prefer not to say,Platinum,2,55.45,4.5,Cash,City Center,Double Cheeseburger,2024-06-27,2024-10-23,Yes,Thursday
+CUST-1200,35-44,Male,Bronze,2,23.78,1.0,Cash,Airport,Iced Coffee,2024-02-21,2024-08-12,Yes,Monday
+CUST-1201,18-24,Prefer not to say,Silver,6,103.04,4.4,Credit Card,Airport,Shawarma Wrap,2024-03-02,2024-09-15,Yes,Saturday
+CUST-1202,35-44,Female,Silver,4,66.26,3.75,Cash,Airport,Double Cheeseburger,2024-01-24,2024-11-06,Yes,Wednesday
+CUST-1203,35-44,Prefer not to say,Platinum,1,26.97,4.0,Debit Card,Airport,Classic Burger,2024-05-13,2024-05-13,No,Monday
+CUST-1204,25-34,Female,Silver,1,49.95,3.0,Online,Suburbs,Shawarma Wrap,2024-11-21,2024-11-21,No,Thursday
+CUST-1205,55+,Female,Platinum,1,27.98,,Digital Wallet,City Center,Chicken Biryani,2024-10-06,2024-10-06,No,Sunday
+CUST-1206,45-54,Female,Gold,2,88.73,5.0,Cash,Airport,Chicken Biryani,2024-03-20,2024-09-18,Yes,Wednesday
+CUST-1207,35-44,Male,Silver,2,55.95,5.0,Credit Card,Airport,BBQ Chicken Pizza,2024-01-22,2024-01-25,Yes,Monday
+CUST-1208,25-34,Female,Platinum,2,78.28,4.0,Digital Wallet,City Center,Lamb Biryani,2024-10-02,2024-11-17,Yes,Sunday
+CUST-1209,18-24,Female,Gold,3,17.58,3.33,Cash,Mall Branch,Double Cheeseburger,2024-01-27,2024-08-14,Yes,Saturday
+CUST-1210,18-24,Male,Platinum,2,16.41,,Cash,Mall Branch,Hot Coffee,2024-02-02,2024-07-08,Yes,Friday
+CUST-1211,35-44,Prefer not to say,Bronze,6,83.01,3.8,Cash,Downtown,French Fries,2024-04-20,2024-11-17,Yes,Saturday
+CUST-1212,25-34,Prefer not to say,Silver,2,68.04,4.5,Online,City Center,Lamb Biryani,2024-04-27,2024-11-27,Yes,Saturday
+CUST-1213,45-54,Female,Platinum,2,42.47,4.0,Cash,Airport,Pepperoni Pizza,2024-04-07,2024-11-16,Yes,Saturday
+CUST-1214,35-44,Male,Silver,2,55.45,4.5,Online,City Center,Lemonade,2024-05-25,2024-10-28,Yes,Monday
+CUST-1215,45-54,Female,Gold,3,54.93,4.0,Cash,Mall Branch,Hot Coffee,2024-02-11,2024-12-29,Yes,Sunday
+CUST-1216,45-54,Male,Platinum,2,20.97,4.0,Digital Wallet,Airport,French Fries,2024-08-22,2024-10-16,Yes,Thursday
+CUST-1217,35-44,Female,Gold,3,67.44,5.0,Online,Airport,Hot Coffee,2024-06-27,2024-10-31,Yes,Thursday
+CUST-1218,35-44,Male,Silver,1,12.99,,Debit Card,Suburbs,Margherita Pizza,2024-11-21,2024-11-21,No,Thursday
+CUST-1219,35-44,Prefer not to say,Silver,3,84.44,3.67,Cash,Airport,Classic Burger,2024-10-16,2024-12-16,Yes,Monday
+CUST-1220,55+,Female,Gold,1,16.98,,Debit Card,Mall Branch,Greek Salad,2024-07-20,2024-07-20,No,Saturday
+CUST-1222,55+,Female,Gold,3,73.45,3.33,Cash,Airport,Lamb Biryani,2024-01-07,2024-03-11,Yes,Sunday
+CUST-1223,25-34,Female,Gold,1,47.96,4.0,Debit Card,Suburbs,Penne Arrabbiata,2024-04-14,2024-04-14,No,Sunday
+CUST-1224,25-34,Male,Bronze,1,16.49,4.0,Online,Mall Branch,Lamb Biryani,2024-05-14,2024-05-14,No,Tuesday
+CUST-1225,55+,Female,Platinum,2,17.48,5.0,Digital Wallet,Airport,Cheesecake,2024-04-26,2024-10-12,Yes,Friday
+CUST-1226,18-24,Female,Gold,3,94.92,4.0,Credit Card,City Center,Caesar Salad,2024-02-01,2024-11-10,Yes,Thursday
+CUST-1227,35-44,Female,Platinum,1,2.97,,Online,Mall Branch,Hot Coffee,2024-02-28,2024-02-28,No,Wednesday
+CUST-1228,35-44,Prefer not to say,Silver,1,8.98,,Online,Suburbs,Iced Coffee,2024-07-05,2024-07-05,No,Friday
+CUST-1229,55+,Prefer not to say,Bronze,1,39.96,2.0,Online,Downtown,Shawarma Wrap,2024-12-03,2024-12-03,No,Tuesday
+CUST-1230,18-24,Prefer not to say,Platinum,2,39.29,4.5,Cash,Airport,Classic Burger,2024-01-12,2024-04-08,Yes,Friday
+CUST-1231,45-54,Prefer not to say,Silver,1,14.49,4.0,Online,Airport,Pepperoni Pizza,2024-10-26,2024-10-26,No,Saturday
+CUST-1232,45-54,Male,Gold,1,22.98,4.0,Debit Card,Downtown,Double Cheeseburger,2024-05-26,2024-05-26,No,Sunday
+CUST-1233,25-34,Prefer not to say,Gold,2,31.95,3.0,Credit Card,Airport,Ice Cream Sundae,2024-09-12,2024-11-17,Yes,Sunday
+CUST-1234,25-34,Prefer not to say,Platinum,3,77.12,4.0,Cash,City Center,Classic Burger,2024-02-22,2024-08-17,Yes,Friday
+CUST-1235,18-24,Female,Silver,1,12.98,4.0,Cash,City Center,Tomato Soup,2024-12-07,2024-12-07,No,Saturday
+CUST-1236,35-44,Prefer not to say,Gold,5,120.71,4.0,Digital Wallet,Downtown,BBQ Chicken Pizza,2024-04-26,2024-11-18,Yes,Monday
+CUST-1237,25-34,Male,Silver,3,43.43,2.67,Credit Card,City Center,Lemonade,2024-02-16,2024-08-03,Yes,Friday
+CUST-1238,55+,Prefer not to say,Platinum,1,10.17,4.0,Online,City Center,French Fries,2024-11-23,2024-11-23,No,Saturday
+CUST-1240,25-34,Prefer not to say,Gold,2,24.03,5.0,Cash,City Center,Margherita Pizza,2024-01-29,2024-11-16,Yes,Monday
+CUST-1241,35-44,Female,Silver,1,53.96,,Online,Airport,Spaghetti Carbonara,2024-02-26,2024-02-26,No,Monday
+CUST-1242,35-44,Male,Silver,2,26.95,1.5,Cash,Airport,Classic Burger,2024-02-22,2024-06-30,Yes,Sunday
+CUST-1243,55+,Female,Bronze,2,45.94,4.0,Credit Card,City Center,Greek Salad,2024-09-05,2024-11-17,Yes,Sunday
+CUST-1244,35-44,Prefer not to say,Platinum,2,35.46,4.0,Debit Card,Airport,Ice Cream Sundae,2024-01-06,2024-02-07,Yes,Saturday
+CUST-1245,55+,Prefer not to say,Platinum,1,7.98,5.0,Credit Card,Airport,French Fries,2024-04-30,2024-04-30,No,Tuesday
+CUST-1246,55+,Prefer not to say,Bronze,3,56.92,4.0,Online,Airport,Chicken Biryani,2024-02-25,2024-09-06,Yes,Sunday
+CUST-1248,55+,Prefer not to say,Platinum,3,92.31,4.67,Cash,City Center,Spaghetti Carbonara,2024-01-09,2024-12-22,Yes,Monday
+CUST-1249,45-54,Male,Gold,2,24.96,4.5,Online,Downtown,Falafel Wrap,2024-08-18,2024-10-02,Yes,Sunday
+CUST-1251,25-34,Female,Silver,1,14.49,3.0,Debit Card,Suburbs,Pepperoni Pizza,2024-09-15,2024-09-15,No,Sunday
+CUST-1252,35-44,Female,Platinum,1,5.94,,Debit Card,Airport,Hot Coffee,2024-08-31,2024-08-31,No,Saturday
+CUST-1253,18-24,Male,Gold,2,72.45,4.0,Cash,Airport,Chicken Biryani,2024-03-26,2024-11-01,Yes,Friday
+CUST-1254,45-54,Prefer not to say,Platinum,5,107.23,4.33,Cash,Airport,Classic Burger,2024-01-11,2024-08-16,Yes,Friday
+CUST-1255,25-34,Female,Bronze,2,17.97,3.0,Cash,Airport,French Fries,2024-03-24,2024-08-31,Yes,Saturday
+CUST-1256,35-44,Female,Bronze,1,10.47,5.0,Debit Card,Mall Branch,Lemonade,2024-06-14,2024-06-14,No,Friday
+CUST-1257,45-54,Male,Bronze,4,59.08,3.75,Online,City Center,Classic Burger,2024-04-16,2024-09-20,Yes,Tuesday
+CUST-1258,45-54,Male,Platinum,1,33.12,4.0,Debit Card,Airport,Margherita Pizza,2024-11-02,2024-11-02,No,Saturday
+CUST-1259,45-54,Male,Silver,5,66.08,3.6,Cash,Airport,Greek Salad,2024-03-29,2024-10-09,Yes,Thursday
+CUST-1260,55+,Prefer not to say,Platinum,3,33.44,5.0,Debit Card,City Center,Iced Coffee,2024-03-06,2024-11-10,Yes,Monday
+CUST-1261,25-34,Male,Gold,1,3.82,,Debit Card,Suburbs,Onion Rings,2024-01-21,2024-01-21,No,Sunday
+CUST-1264,18-24,Prefer not to say,Silver,2,25.57,4.0,Cash,Airport,BBQ Chicken Pizza,2024-06-25,2024-11-24,Yes,Sunday
+CUST-1265,18-24,Prefer not to say,Bronze,4,79.39,3.5,Online,City Center,Classic Burger,2024-04-26,2024-11-16,Yes,Saturday
+CUST-1266,45-54,Female,Platinum,4,136.9,2.0,Digital Wallet,Downtown,BBQ Chicken Pizza,2024-04-26,2024-08-04,Yes,Friday
+CUST-1267,18-24,Female,Silver,1,4.49,,Debit Card,City Center,Onion Rings,2024-09-15,2024-09-15,No,Sunday
+CUST-1268,35-44,Prefer not to say,Platinum,1,4.49,4.0,Digital Wallet,Airport,Onion Rings,2024-04-18,2024-04-18,No,Thursday
+CUST-1269,55+,Prefer not to say,Platinum,2,71.9,5.0,Credit Card,City Center,Lamb Biryani,2024-10-27,2024-11-07,Yes,Sunday
+CUST-1270,45-54,Female,Silver,1,5.49,5.0,Cash,Downtown,Ice Cream Sundae,2024-02-25,2024-02-25,No,Sunday
+CUST-1271,18-24,Prefer not to say,Silver,1,13.49,3.0,Credit Card,City Center,Spaghetti Carbonara,2024-12-26,2024-12-26,No,Thursday
+CUST-1273,25-34,Female,Platinum,3,55.95,3.67,Online,Downtown,Caesar Salad,2024-04-21,2024-07-13,Yes,Saturday
+CUST-1275,55+,Prefer not to say,Silver,1,17.98,2.0,Digital Wallet,Suburbs,Caesar Salad,2024-01-29,2024-01-29,No,Monday
+CUST-1276,25-34,Female,Platinum,3,61.0,4.0,Cash,Mall Branch,Double Cheeseburger,2024-01-10,2024-11-15,Yes,Friday
+CUST-1277,45-54,Prefer not to say,Platinum,3,32.95,4.5,Debit Card,Airport,Caesar Salad,2024-04-05,2024-08-19,Yes,Friday
+CUST-1278,45-54,Male,Platinum,1,16.47,5.0,Debit Card,Mall Branch,Mango Smoothie,2024-09-09,2024-09-09,No,Monday
+CUST-1279,18-24,Female,Platinum,1,10.98,5.0,Debit Card,City Center,Ice Cream Sundae,2024-06-26,2024-06-26,No,Wednesday
+CUST-1280,18-24,Prefer not to say,Gold,4,55.56,2.67,Cash,City Center,Lemonade,2024-05-21,2024-12-18,Yes,Monday
+CUST-1282,55+,Prefer not to say,Gold,1,6.98,4.0,Digital Wallet,Airport,Hot Coffee,2024-12-18,2024-12-18,No,Wednesday
+CUST-1283,45-54,Prefer not to say,Silver,1,14.49,5.0,Debit Card,Airport,Pepperoni Pizza,2024-08-22,2024-08-22,No,Thursday
+CUST-1284,35-44,Female,Gold,3,68.92,4.5,Cash,Downtown,Classic Burger,2024-09-21,2024-10-13,Yes,Saturday
+CUST-1285,25-34,Male,Gold,3,84.02,2.0,Cash,Airport,BBQ Chicken Pizza,2024-01-13,2024-08-15,Yes,Saturday
+CUST-1286,25-34,Prefer not to say,Bronze,4,145.42,4.0,Credit Card,Suburbs,Classic Burger,2024-01-02,2024-11-15,Yes,Tuesday
+CUST-1287,18-24,Prefer not to say,Silver,4,62.42,4.0,Digital Wallet,Airport,Falafel Wrap,2024-01-04,2024-10-20,Yes,Saturday
+CUST-1289,35-44,Male,Silver,1,3.99,,Debit Card,Suburbs,French Fries,2024-07-01,2024-07-01,No,Monday
+CUST-1290,45-54,Male,Gold,4,76.43,4.25,Online,Suburbs,BBQ Chicken Pizza,2024-01-06,2024-11-24,Yes,Monday
+CUST-1291,35-44,Female,Silver,3,70.43,4.0,Cash,City Center,Lamb Biryani,2024-07-14,2024-11-23,Yes,Saturday
+CUST-1292,35-44,Female,Bronze,1,8.99,,Digital Wallet,Mall Branch,Classic Burger,2024-01-23,2024-01-23,No,Tuesday
+CUST-1294,18-24,Female,Gold,3,101.49,4.33,Cash,Airport,BBQ Chicken Pizza,2024-08-22,2024-12-10,Yes,Sunday
+CUST-1295,55+,Male,Silver,3,49.44,3.5,Online,City Center,Double Cheeseburger,2024-05-17,2024-09-15,Yes,Friday
+CUST-1296,18-24,Prefer not to say,Bronze,1,5.09,4.0,Digital Wallet,Mall Branch,Cheesecake,2024-01-02,2024-01-02,No,Tuesday
+CUST-1298,55+,Female,Bronze,4,101.05,4.0,Debit Card,Suburbs,Chicken Biryani,2024-04-12,2024-11-22,Yes,Friday
+CUST-1299,45-54,Male,Bronze,3,40.96,3.33,Credit Card,City Center,BBQ Chicken Pizza,2024-01-26,2024-12-20,Yes,Friday
+CUST-1300,45-54,Male,Platinum,2,36.96,5.0,Cash,Downtown,Caesar Salad,2024-01-19,2024-12-04,Yes,Friday
+CUST-1301,45-54,Female,Platinum,3,16.96,4.0,Credit Card,City Center,Iced Coffee,2024-06-21,2024-12-09,Yes,Monday
+CUST-1302,55+,Male,Bronze,2,75.94,5.0,Cash,Airport,Chicken Biryani,2024-03-05,2024-06-10,Yes,Monday
+CUST-1303,25-34,Male,Platinum,3,57.0,4.0,Cash,Airport,BBQ Chicken Pizza,2024-03-29,2024-12-21,Yes,Friday
+CUST-1304,35-44,Female,Silver,3,33.77,3.0,Credit Card,Airport,Chicken Biryani,2024-06-30,2024-11-05,Yes,Sunday
+CUST-1305,55+,Male,Silver,1,8.99,5.0,Cash,City Center,Classic Burger,2024-12-30,2024-12-30,No,Monday
+CUST-1306,45-54,Female,Silver,5,89.42,4.0,Cash,City Center,BBQ Chicken Pizza,2024-03-29,2024-12-28,Yes,Friday
+CUST-1307,35-44,Female,Bronze,3,100.04,4.0,Credit Card,City Center,Shawarma Wrap,2024-02-19,2024-12-15,Yes,Sunday
+CUST-1308,25-34,Female,Silver,1,13.98,4.0,Digital Wallet,City Center,Mushroom Soup,2024-11-04,2024-11-04,No,Monday
+CUST-1309,25-34,Prefer not to say,Silver,6,146.67,4.17,Debit Card,City Center,French Fries,2024-01-21,2024-12-08,Yes,Sunday
+CUST-1310,18-24,Male,Bronze,2,9.43,2.0,Cash,City Center,Hot Coffee,2024-02-20,2024-03-07,Yes,Thursday
+CUST-1311,25-34,Female,Gold,4,80.08,3.33,Credit Card,Airport,Chicken Biryani,2024-01-08,2024-07-07,Yes,Monday
+CUST-1312,45-54,Female,Gold,2,36.52,3.0,Cash,Downtown,Double Cheeseburger,2024-03-22,2024-09-02,Yes,Friday
+CUST-1313,55+,Male,Gold,2,40.47,4.5,Cash,Airport,BBQ Chicken Pizza,2024-01-22,2024-07-24,Yes,Monday
+CUST-1314,55+,Prefer not to say,Gold,1,39.96,4.0,Online,City Center,Shawarma Wrap,2024-04-13,2024-04-13,No,Saturday
+CUST-1315,55+,Female,Platinum,1,8.99,5.0,Online,Airport,Caesar Salad,2024-07-01,2024-07-01,No,Monday
+CUST-1316,18-24,Male,Bronze,4,54.99,3.5,Cash,Suburbs,Hot Coffee,2024-07-13,2024-10-18,Yes,Saturday
+CUST-1317,45-54,Male,Gold,1,11.97,4.0,Debit Card,City Center,French Fries,2024-01-13,2024-01-13,No,Saturday
+CUST-1318,45-54,Prefer not to say,Silver,1,8.99,4.0,Credit Card,City Center,Classic Burger,2024-03-26,2024-03-26,No,Tuesday
+CUST-1319,35-44,Prefer not to say,Silver,1,26.97,5.0,Debit Card,Mall Branch,Classic Burger,2024-12-12,2024-12-12,No,Thursday
+CUST-1320,25-34,Male,Bronze,3,58.95,4.67,Digital Wallet,Suburbs,BBQ Chicken Pizza,2024-04-18,2024-11-18,Yes,Monday
+CUST-1321,35-44,Male,Gold,4,61.94,3.0,Digital Wallet,Suburbs,BBQ Chicken Pizza,2024-07-10,2024-11-26,Yes,Wednesday
+CUST-1322,35-44,Female,Platinum,2,62.94,4.0,Cash,Airport,Chicken Biryani,2024-02-23,2024-09-01,Yes,Friday
+CUST-1323,25-34,Female,Platinum,1,35.97,4.0,Cash,Suburbs,Penne Arrabbiata,2024-09-02,2024-09-02,No,Monday
+CUST-1324,55+,Prefer not to say,Silver,1,12.99,3.0,Credit Card,City Center,Margherita Pizza,2024-02-10,2024-02-10,No,Saturday
+CUST-1325,45-54,Prefer not to say,Platinum,2,27.95,4.0,Credit Card,Airport,Cheesecake,2024-07-13,2024-09-15,Yes,Saturday
+CUST-1327,25-34,Female,Gold,5,101.68,3.6,Digital Wallet,Downtown,Chicken Biryani,2024-02-19,2024-11-01,Yes,Friday
+CUST-1329,35-44,Prefer not to say,Gold,2,16.97,4.0,Cash,Airport,Classic Burger,2024-10-12,2024-11-05,Yes,Saturday
+CUST-1330,55+,Prefer not to say,Bronze,2,44.76,5.0,Cash,Downtown,BBQ Chicken Pizza,2024-03-18,2024-12-04,Yes,Monday
+CUST-1331,18-24,Prefer not to say,Platinum,3,75.04,3.33,Credit Card,Mall Branch,Chicken Biryani,2024-03-15,2024-08-03,Yes,Saturday
+CUST-1332,25-34,Male,Platinum,4,41.99,3.5,Cash,Airport,Chicken Biryani,2024-03-03,2024-06-21,Yes,Friday
+CUST-1333,45-54,Male,Silver,2,19.31,3.5,Debit Card,Mall Branch,Chocolate Lava Cake,2024-03-09,2024-11-30,Yes,Saturday
+CUST-1334,18-24,Female,Bronze,3,52.1,4.67,Debit Card,Mall Branch,Iced Coffee,2024-04-28,2024-12-14,Yes,Saturday
+CUST-1335,35-44,Male,Gold,3,15.97,3.0,Credit Card,City Center,French Fries,2024-01-08,2024-06-29,Yes,Friday
+CUST-1337,25-34,Prefer not to say,Silver,4,53.32,3.0,Cash,City Center,Greek Salad,2024-05-13,2024-11-26,Yes,Monday
+CUST-1338,18-24,Male,Silver,5,112.63,4.67,Credit Card,City Center,BBQ Chicken Pizza,2024-01-06,2024-11-14,Yes,Saturday
+CUST-1339,35-44,Female,Gold,1,44.95,,Digital Wallet,Airport,Classic Burger,2024-09-28,2024-09-28,No,Saturday
+CUST-1341,25-34,Prefer not to say,Gold,1,13.99,,Debit Card,Airport,Chicken Biryani,2024-04-06,2024-04-06,No,Saturday
+CUST-1342,18-24,Female,Platinum,1,8.99,4.0,Online,Downtown,Classic Burger,2024-08-13,2024-08-13,No,Tuesday
+CUST-1343,55+,Male,Bronze,1,9.99,5.0,Online,Suburbs,Shawarma Wrap,2024-01-19,2024-01-19,No,Friday
+CUST-1344,55+,Prefer not to say,Silver,7,96.44,4.0,Debit Card,Mall Branch,Caesar Salad,2024-01-12,2024-10-15,Yes,Sunday
+CUST-1345,55+,Female,Silver,1,18.98,5.0,Credit Card,Airport,Veggie Burger,2024-12-26,2024-12-26,No,Thursday
+CUST-1346,18-24,Male,Silver,3,42.46,3.0,Debit Card,City Center,Caesar Salad,2024-02-07,2024-10-15,Yes,Thursday
+CUST-1347,18-24,Male,Silver,3,48.39,3.5,Cash,Suburbs,Classic Burger,2024-08-07,2024-12-16,Yes,Wednesday
+CUST-1348,55+,Prefer not to say,Silver,2,24.49,5.0,Debit Card,Downtown,Lamb Biryani,2024-01-08,2024-09-30,Yes,Monday
+CUST-1349,55+,Prefer not to say,Bronze,3,69.94,3.0,Cash,Airport,BBQ Chicken Pizza,2024-04-06,2024-08-24,Yes,Saturday
+CUST-1350,18-24,Female,Bronze,2,20.05,3.0,Credit Card,Airport,Lemonade,2024-06-23,2024-11-30,Yes,Saturday
+CUST-1351,35-44,Prefer not to say,Gold,3,44.43,3.0,Cash,Suburbs,Double Cheeseburger,2024-01-04,2024-10-06,Yes,Sunday
+CUST-1352,35-44,Female,Platinum,2,62.96,2.0,Cash,Mall Branch,Lamb Biryani,2024-02-04,2024-09-15,Yes,Sunday
+CUST-1353,18-24,Female,Bronze,3,49.18,4.5,Debit Card,Airport,BBQ Chicken Pizza,2024-03-13,2024-11-30,Yes,Saturday
+CUST-1355,45-54,Prefer not to say,Bronze,2,20.48,2.0,Digital Wallet,Mall Branch,French Fries,2024-09-12,2024-10-06,Yes,Sunday
+CUST-1356,25-34,Male,Gold,2,12.98,3.0,Cash,City Center,Hot Coffee,2024-09-28,2024-12-28,Yes,Saturday
+CUST-1357,18-24,Male,Gold,1,19.98,4.0,Credit Card,Downtown,Shawarma Wrap,2024-11-03,2024-11-03,No,Sunday
+CUST-1358,35-44,Female,Bronze,3,67.74,4.0,Credit Card,Airport,Shawarma Wrap,2024-04-10,2024-05-18,Yes,Monday
+CUST-1359,18-24,Prefer not to say,Silver,3,60.11,4.5,Credit Card,Suburbs,Spaghetti Carbonara,2024-01-01,2024-08-23,Yes,Friday
+CUST-1360,18-24,Female,Silver,2,23.46,4.0,Debit Card,Airport,Mango Smoothie,2024-07-21,2024-09-22,Yes,Sunday
+CUST-1361,25-34,Female,Bronze,2,13.98,4.0,Debit Card,Airport,Onion Rings,2024-07-06,2024-12-31,Yes,Saturday
+CUST-1363,35-44,Female,Gold,2,65.43,4.0,Digital Wallet,Suburbs,Double Cheeseburger,2024-06-14,2024-11-01,Yes,Friday
+CUST-1366,25-34,Male,Bronze,2,57.74,4.5,Cash,Airport,BBQ Chicken Pizza,2024-01-11,2024-04-20,Yes,Saturday
+CUST-1367,18-24,Male,Gold,5,162.38,4.8,Online,Airport,Lamb Biryani,2024-05-01,2024-07-29,Yes,Saturday
+CUST-1368,35-44,Prefer not to say,Gold,1,57.96,5.0,Online,Airport,Pepperoni Pizza,2024-07-28,2024-07-28,No,Sunday
+CUST-1369,55+,Prefer not to say,Silver,2,41.46,5.0,Debit Card,City Center,Margherita Pizza,2024-08-24,2024-11-16,Yes,Saturday
+CUST-1370,55+,Male,Platinum,1,7.98,4.0,Credit Card,Downtown,French Fries,2024-10-12,2024-10-12,No,Saturday
+CUST-1371,55+,Prefer not to say,Bronze,4,41.44,3.75,Credit Card,Airport,Hot Coffee,2024-01-22,2024-08-31,Yes,Monday
+CUST-1372,55+,Female,Bronze,1,57.96,4.0,Digital Wallet,Downtown,Pepperoni Pizza,2024-07-18,2024-07-18,No,Thursday
+CUST-1374,55+,Male,Silver,2,82.93,,Cash,Airport,Classic Burger,2024-05-21,2024-06-20,Yes,Thursday
+CUST-1377,45-54,Female,Bronze,4,91.07,4.0,Digital Wallet,City Center,BBQ Chicken Pizza,2024-03-11,2024-08-11,Yes,Monday
+CUST-1378,45-54,Prefer not to say,Platinum,4,75.92,4.0,Cash,Downtown,Greek Salad,2024-03-15,2024-09-06,Yes,Friday
+CUST-1379,35-44,Prefer not to say,Silver,1,3.49,5.0,Digital Wallet,Suburbs,Hot Coffee,2024-04-07,2024-04-07,No,Sunday
+CUST-1380,18-24,Female,Gold,3,19.86,4.0,Credit Card,City Center,Chocolate Lava Cake,2024-01-04,2024-08-27,Yes,Friday
+CUST-1381,55+,Prefer not to say,Silver,3,47.5,4.33,Cash,City Center,Double Cheeseburger,2024-04-05,2024-09-09,Yes,Friday
+CUST-1382,45-54,Male,Bronze,1,17.98,5.0,Online,Suburbs,Classic Burger,2024-01-03,2024-01-03,No,Wednesday
+CUST-1383,18-24,Female,Bronze,2,47.76,4.0,Cash,Suburbs,Chicken Biryani,2024-04-05,2024-11-10,Yes,Friday
+CUST-1384,18-24,Male,Gold,1,69.95,5.0,Credit Card,Suburbs,Chicken Biryani,2024-11-24,2024-11-24,No,Sunday
+CUST-1385,25-34,Prefer not to say,Platinum,3,96.57,5.0,Debit Card,Airport,Caesar Salad,2024-02-17,2024-11-20,Yes,Monday
+CUST-1386,18-24,Prefer not to say,Platinum,6,113.89,3.0,Credit Card,Suburbs,Cheesecake,2024-01-24,2024-12-21,Yes,Wednesday
+CUST-1388,35-44,Male,Gold,2,24.95,4.0,Debit Card,City Center,Cheesecake,2024-07-01,2024-11-19,Yes,Monday
+CUST-1390,35-44,Prefer not to say,Silver,4,63.04,4.33,Digital Wallet,City Center,Margherita Pizza,2024-01-28,2024-10-22,Yes,Sunday
+CUST-1391,35-44,Prefer not to say,Platinum,2,31.64,3.0,Credit Card,Airport,Classic Burger,2024-02-14,2024-10-07,Yes,Monday
+CUST-1392,25-34,Male,Bronze,1,65.96,5.0,Credit Card,Suburbs,Lamb Biryani,2024-12-15,2024-12-15,No,Sunday
+CUST-1393,18-24,Prefer not to say,Platinum,1,8.07,2.0,Digital Wallet,Airport,Veggie Burger,2024-06-19,2024-06-19,No,Wednesday
+CUST-1394,18-24,Male,Gold,2,84.24,4.0,Credit Card,Downtown,Margherita Pizza,2024-06-30,2024-12-27,Yes,Friday
+CUST-1395,25-34,Female,Silver,2,38.97,4.0,Digital Wallet,City Center,Penne Arrabbiata,2024-06-16,2024-07-20,Yes,Saturday
+CUST-1396,18-24,Female,Silver,1,10.47,5.0,Online,City Center,Hot Coffee,2024-09-13,2024-09-13,No,Friday
+CUST-1397,25-34,Female,Platinum,2,51.92,5.0,Credit Card,Downtown,Falafel Wrap,2024-04-12,2024-08-29,Yes,Friday
+CUST-1398,25-34,Female,Bronze,1,16.98,4.0,Online,Suburbs,Shawarma Wrap,2024-08-12,2024-08-12,No,Monday
+CUST-1401,35-44,Prefer not to say,Platinum,5,105.79,4.5,Cash,City Center,Classic Burger,2024-01-10,2024-11-26,Yes,Saturday
+CUST-1402,18-24,Female,Platinum,2,47.6,4.0,Debit Card,Airport,Classic Burger,2024-05-26,2024-12-24,Yes,Sunday
+CUST-1403,35-44,Prefer not to say,Gold,2,46.46,4.0,Credit Card,Airport,Chicken Biryani,2024-10-26,2024-11-13,Yes,Saturday
+CUST-1404,35-44,Female,Bronze,3,28.46,4.5,Digital Wallet,Airport,BBQ Chicken Pizza,2024-03-23,2024-10-15,Yes,Monday
+CUST-1405,45-54,Prefer not to say,Silver,3,42.95,4.33,Credit Card,City Center,Cheesecake,2024-05-19,2024-12-13,Yes,Friday
+CUST-1407,25-34,Prefer not to say,Gold,5,108.9,4.0,Online,Suburbs,Double Cheeseburger,2024-04-06,2024-12-12,Yes,Thursday
+CUST-1408,18-24,Female,Platinum,4,81.4,4.0,Digital Wallet,City Center,Classic Burger,2024-01-29,2024-11-01,Yes,Friday
+CUST-1409,35-44,Male,Bronze,2,70.94,3.5,Cash,City Center,BBQ Chicken Pizza,2024-05-08,2024-06-21,Yes,Friday
+CUST-1410,55+,Male,Gold,1,3.49,4.0,Cash,Airport,Lemonade,2024-07-08,2024-07-08,No,Monday
+CUST-1411,25-34,Prefer not to say,Bronze,4,111.88,3.33,Digital Wallet,Downtown,Caesar Salad,2024-02-18,2024-08-28,Yes,Sunday
+CUST-1412,18-24,Male,Bronze,2,16.63,4.0,Credit Card,Airport,Classic Burger,2024-06-27,2024-07-07,Yes,Sunday
+CUST-1413,45-54,Female,Platinum,4,74.82,4.67,Online,Suburbs,Chocolate Lava Cake,2024-01-05,2024-08-12,Yes,Friday
+CUST-1416,45-54,Prefer not to say,Bronze,1,47.97,5.0,Online,Airport,BBQ Chicken Pizza,2024-09-22,2024-09-22,No,Sunday
+CUST-1417,55+,Prefer not to say,Gold,2,42.45,5.0,Credit Card,Mall Branch,Mushroom Soup,2024-06-27,2024-10-20,Yes,Sunday
+CUST-1418,25-34,Male,Gold,3,53.82,5.0,Credit Card,Suburbs,Chocolate Lava Cake,2024-01-02,2024-12-10,Yes,Tuesday
+CUST-1419,55+,Female,Bronze,1,25.98,5.0,Online,Suburbs,Margherita Pizza,2024-06-25,2024-06-25,No,Tuesday
+CUST-1420,35-44,Prefer not to say,Silver,2,30.96,,Cash,Airport,Double Cheeseburger,2024-01-13,2024-02-09,Yes,Friday
+CUST-1421,55+,Female,Silver,3,67.0,4.5,Cash,Airport,Chicken Biryani,2024-03-29,2024-10-19,Yes,Friday
+CUST-1422,55+,Male,Bronze,2,35.96,3.5,Debit Card,City Center,Classic Burger,2024-01-12,2024-11-11,Yes,Friday
+CUST-1423,55+,Prefer not to say,Silver,1,3.99,4.0,Credit Card,City Center,French Fries,2024-10-17,2024-10-17,No,Thursday
+CUST-1424,35-44,Prefer not to say,Gold,3,121.9,3.0,Credit Card,Downtown,BBQ Chicken Pizza,2024-05-05,2024-12-17,Yes,Monday
+CUST-1426,45-54,Prefer not to say,Silver,3,90.83,3.33,Digital Wallet,Airport,BBQ Chicken Pizza,2024-01-03,2024-04-19,Yes,Friday
+CUST-1427,55+,Prefer not to say,Bronze,2,20.95,4.0,Credit Card,City Center,Lemonade,2024-01-24,2024-12-19,Yes,Thursday
+CUST-1428,25-34,Female,Bronze,2,36.93,4.5,Digital Wallet,Suburbs,Chocolate Lava Cake,2024-04-22,2024-05-02,Yes,Monday
+CUST-1429,25-34,Female,Platinum,3,65.26,4.0,Online,Mall Branch,Onion Rings,2024-03-22,2024-08-04,Yes,Friday
+CUST-1430,25-34,Male,Silver,2,30.95,4.0,Credit Card,Airport,Margherita Pizza,2024-09-04,2024-09-25,Yes,Wednesday
+CUST-1432,18-24,Female,Platinum,1,4.49,5.0,Online,Downtown,Iced Coffee,2024-07-04,2024-07-04,No,Thursday
+CUST-1433,55+,Prefer not to say,Gold,1,17.98,2.0,Debit Card,Downtown,Classic Burger,2024-07-12,2024-07-12,No,Friday
+CUST-1434,55+,Female,Silver,3,50.75,5.0,Cash,Downtown,BBQ Chicken Pizza,2024-03-23,2024-11-25,Yes,Monday
+CUST-1435,18-24,Female,Gold,2,70.94,5.0,Debit Card,Airport,Margherita Pizza,2024-03-16,2024-05-03,Yes,Friday
+CUST-1436,55+,Female,Bronze,3,53.95,3.67,Cash,City Center,Chicken Biryani,2024-03-06,2024-11-20,Yes,Wednesday
+CUST-1438,25-34,Female,Bronze,3,21.46,4.0,Cash,Mall Branch,French Fries,2024-01-08,2024-06-12,Yes,Monday
+CUST-1439,55+,Female,Bronze,4,130.37,4.0,Cash,Downtown,Caesar Salad,2024-02-21,2024-12-15,Yes,Friday
+CUST-1440,35-44,Male,Gold,7,102.13,4.0,Cash,Downtown,French Fries,2024-01-11,2024-09-04,Yes,Saturday
+CUST-1441,18-24,Prefer not to say,Bronze,5,97.11,4.0,Debit Card,Suburbs,BBQ Chicken Pizza,2024-01-13,2024-09-11,Yes,Saturday
+CUST-1442,55+,Male,Silver,2,18.95,3.0,Credit Card,Airport,French Fries,2024-04-15,2024-12-23,Yes,Monday
+CUST-1443,45-54,Male,Platinum,3,35.46,3.0,Cash,Airport,Iced Coffee,2024-05-17,2024-12-14,Yes,Friday
+CUST-1444,18-24,Male,Bronze,4,126.38,3.25,Digital Wallet,Airport,Ice Cream Sundae,2024-01-22,2024-10-12,Yes,Friday
+CUST-1446,35-44,Prefer not to say,Gold,3,81.44,4.0,Credit Card,City Center,Margherita Pizza,2024-03-30,2024-09-14,Yes,Saturday
+CUST-1447,35-44,Prefer not to say,Bronze,1,5.49,4.0,Debit Card,Suburbs,Ice Cream Sundae,2024-06-24,2024-06-24,No,Monday
+CUST-1448,25-34,Prefer not to say,Silver,2,58.96,4.0,Credit Card,Airport,Lamb Biryani,2024-02-17,2024-09-08,Yes,Saturday
+CUST-1449,35-44,Prefer not to say,Bronze,2,22.47,4.0,Online,Airport,Classic Burger,2024-01-13,2024-09-01,Yes,Saturday
+CUST-1450,18-24,Prefer not to say,Gold,4,84.55,4.0,Cash,City Center,Classic Burger,2024-04-07,2024-12-21,Yes,Saturday
+CUST-1452,35-44,Male,Gold,2,45.97,4.5,Debit Card,Mall Branch,BBQ Chicken Pizza,2024-02-18,2024-07-13,Yes,Saturday
+CUST-1453,35-44,Male,Platinum,1,9.49,4.0,Digital Wallet,Suburbs,Veggie Burger,2024-01-14,2024-01-14,No,Sunday
+CUST-1454,25-34,Female,Gold,2,86.24,4.0,Credit Card,Mall Branch,Spaghetti Carbonara,2024-06-12,2024-12-08,Yes,Sunday
+CUST-1455,45-54,Male,Gold,1,19.95,4.0,Debit Card,Mall Branch,French Fries,2024-04-07,2024-04-07,No,Sunday
+CUST-1456,35-44,Male,Silver,1,7.22,,Credit Card,Airport,Falafel Wrap,2024-12-24,2024-12-24,No,Tuesday
+CUST-1457,55+,Prefer not to say,Platinum,6,113.26,4.6,Debit Card,City Center,Chocolate Lava Cake,2024-02-16,2024-09-27,Yes,Friday
+CUST-1458,18-24,Male,Bronze,4,104.09,2.75,Online,Downtown,Mango Smoothie,2024-03-20,2024-12-25,Yes,Wednesday
+CUST-1459,55+,Male,Silver,1,22.92,2.0,Debit Card,Downtown,Classic Burger,2024-01-24,2024-01-24,No,Wednesday
+CUST-1460,18-24,Female,Silver,2,40.97,4.0,Credit Card,Airport,BBQ Chicken Pizza,2024-04-01,2024-11-21,Yes,Monday
+CUST-1461,55+,Female,Bronze,2,19.63,5.0,Cash,Downtown,Lemonade,2024-04-20,2024-08-17,Yes,Saturday
+CUST-1462,45-54,Female,Bronze,2,83.43,3.5,Debit Card,Downtown,Double Cheeseburger,2024-01-24,2024-08-04,Yes,Sunday
+CUST-1463,18-24,Male,Gold,2,51.16,5.0,Online,Airport,BBQ Chicken Pizza,2024-03-03,2024-03-09,Yes,Saturday
+CUST-1464,55+,Male,Silver,3,98.14,4.5,Digital Wallet,Mall Branch,Falafel Wrap,2024-03-01,2024-12-23,Yes,Friday
+CUST-1465,35-44,Prefer not to say,Bronze,1,49.28,4.0,Online,Mall Branch,Pepperoni Pizza,2024-01-29,2024-01-29,No,Monday
+CUST-1466,55+,Female,Gold,2,48.95,4.0,Cash,Airport,Classic Burger,2024-03-03,2024-09-07,Yes,Saturday
+CUST-1467,25-34,Prefer not to say,Platinum,1,15.99,4.0,Debit Card,Mall Branch,BBQ Chicken Pizza,2024-12-22,2024-12-22,No,Sunday
+CUST-1468,18-24,Male,Bronze,1,9.99,4.0,Debit Card,Downtown,Shawarma Wrap,2024-12-07,2024-12-07,No,Saturday
+CUST-1469,45-54,Female,Gold,1,12.98,4.0,Credit Card,Downtown,Tomato Soup,2024-08-07,2024-08-07,No,Wednesday
+CUST-1470,55+,Male,Bronze,1,26.97,4.0,Online,City Center,Classic Burger,2024-10-31,2024-10-31,No,Thursday
+CUST-1471,18-24,Male,Bronze,3,83.21,4.5,Cash,Downtown,Classic Burger,2024-01-06,2024-10-07,Yes,Monday
+CUST-1472,25-34,Prefer not to say,Silver,5,99.08,4.6,Cash,City Center,Cheesecake,2024-03-10,2024-12-05,Yes,Saturday
+CUST-1473,25-34,Prefer not to say,Bronze,4,29.95,4.67,Credit Card,Airport,French Fries,2024-01-28,2024-10-05,Yes,Monday
+CUST-1474,18-24,Female,Platinum,1,17.98,3.0,Credit Card,Suburbs,Classic Burger,2024-08-07,2024-08-07,No,Wednesday
+CUST-1475,55+,Female,Gold,4,36.44,3.5,Debit Card,Suburbs,Classic Burger,2024-01-07,2024-11-08,Yes,Wednesday
+CUST-1476,35-44,Prefer not to say,Platinum,2,38.44,3.5,Cash,City Center,Classic Burger,2024-01-14,2024-02-05,Yes,Monday
+CUST-1477,45-54,Male,Silver,1,8.49,4.0,Online,Airport,Shawarma Wrap,2024-03-12,2024-03-12,No,Tuesday
+CUST-1478,25-34,Prefer not to say,Silver,4,33.32,3.5,Credit Card,Suburbs,French Fries,2024-01-27,2024-11-20,Yes,Friday
+CUST-1479,45-54,Prefer not to say,Gold,3,57.44,5.0,Credit Card,Downtown,BBQ Chicken Pizza,2024-01-17,2024-10-24,Yes,Thursday
+CUST-1480,18-24,Female,Silver,1,11.99,,Digital Wallet,Downtown,Penne Arrabbiata,2024-05-27,2024-05-27,No,Monday
+CUST-1481,35-44,Female,Platinum,2,44.04,4.0,Cash,City Center,Ice Cream Sundae,2024-08-10,2024-11-01,Yes,Friday
+CUST-1483,25-34,Male,Bronze,2,17.48,3.0,Credit Card,Airport,Ice Cream Sundae,2024-08-02,2024-09-24,Yes,Friday
+CUST-1485,45-54,Female,Bronze,1,26.97,5.0,Cash,Suburbs,Classic Burger,2024-04-27,2024-04-27,No,Saturday
+CUST-1486,35-44,Male,Bronze,1,7.98,,Cash,Mall Branch,French Fries,2024-11-15,2024-11-15,No,Friday
+CUST-1487,35-44,Prefer not to say,Gold,4,90.7,4.5,Online,Mall Branch,Margherita Pizza,2024-01-28,2024-06-27,Yes,Sunday
+CUST-1488,18-24,Prefer not to say,Gold,3,44.46,4.0,Digital Wallet,Airport,Double Cheeseburger,2024-01-22,2024-09-07,Yes,Saturday
+CUST-1489,25-34,Prefer not to say,Bronze,4,56.08,3.25,Digital Wallet,Mall Branch,Chocolate Lava Cake,2024-03-09,2024-12-18,Yes,Wednesday
+CUST-1490,45-54,Prefer not to say,Silver,4,54.28,4.0,Debit Card,Airport,Lemonade,2024-04-20,2024-08-05,Yes,Saturday
+CUST-1491,45-54,Male,Gold,2,60.03,2.5,Credit Card,Downtown,Margherita Pizza,2024-07-31,2024-08-05,Yes,Monday
+CUST-1492,45-54,Female,Silver,1,11.99,2.0,Debit Card,City Center,Penne Arrabbiata,2024-09-15,2024-09-15,No,Sunday
+CUST-1493,18-24,Male,Platinum,5,104.25,4.25,Cash,Mall Branch,Caesar Salad,2024-01-09,2024-11-19,Yes,Tuesday
+CUST-1494,25-34,Female,Gold,2,19.77,5.0,Online,City Center,Classic Burger,2024-07-14,2024-10-09,Yes,Sunday
+CUST-1497,18-24,Male,Gold,3,64.81,4.0,Credit Card,Airport,Chocolate Lava Cake,2024-01-18,2024-11-24,Yes,Saturday
+CUST-1498,55+,Male,Gold,3,40.46,4.33,Cash,Suburbs,Double Cheeseburger,2024-01-05,2024-08-09,Yes,Friday
+CUST-1499,45-54,Prefer not to say,Bronze,1,17.98,4.0,Digital Wallet,City Center,Classic Burger,2024-07-12,2024-07-12,No,Friday
+CUST-1500,35-44,Female,Gold,2,7.98,4.0,Credit Card,City Center,Hot Coffee,2024-06-29,2024-12-25,Yes,Saturday

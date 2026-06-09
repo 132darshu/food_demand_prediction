@@ -1,0 +1,26 @@
+dish_name,dish_category,total_orders,total_qty_ordered,total_waste_kg,avg_waste_per_order_kg,cancelled_orders,waste_from_cancellations_kg,waste_cost_usd,waste_reduction_opportunity,rush_day
+BBQ Chicken Pizza,Pizza,55,114,2.53,0.046,10,0.5531,10.12,High,Monday
+Caesar Salad,Salads,22,41,0.8622,0.0392,3,0.0953,4.5,Medium,Tuesday
+Cheesecake,Desserts,23,54,1.3029,0.0566,4,0.2796,7.12,High,Saturday
+Chicken Biryani,Rice Dishes,48,100,2.5934,0.054,12,0.7096,22.98,High,Friday
+Chocolate Lava Cake,Desserts,23,51,1.4233,0.0619,5,0.4068,7.86,High,Friday
+Classic Burger,Burgers,86,186,4.1741,0.0485,12,0.7721,28.91,High,Monday
+Double Cheeseburger,Burgers,50,101,2.5893,0.0518,10,0.6762,12.71,High,Sunday
+Falafel Wrap,Wraps,34,71,1.6993,0.05,9,0.3743,11.81,High,Monday
+French Fries,Sides,81,161,3.6129,0.0446,15,0.8912,15.44,High,Saturday
+Greek Salad,Salads,30,62,1.2215,0.0407,3,0.1077,4.92,High,Saturday
+Hot Coffee,Beverages,40,77,1.9618,0.049,7,0.4496,9.01,High,Saturday
+Ice Cream Sundae,Desserts,26,49,1.2108,0.0466,3,0.1273,7.91,High,Wednesday
+Iced Coffee,Beverages,25,54,1.3398,0.0536,4,0.3584,5.73,High,Sunday
+Lamb Biryani,Rice Dishes,41,104,2.3069,0.0563,2,0.22,17.93,High,Saturday
+Lemonade,Beverages,32,66,1.3515,0.0422,5,0.2415,8.29,High,Sunday
+Mango Smoothie,Beverages,23,50,1.2771,0.0555,5,0.3454,8.99,High,Saturday
+Margherita Pizza,Pizza,60,119,2.9877,0.0498,16,0.8775,13.28,High,Saturday
+Mushroom Soup,Soups,21,40,1.1014,0.0524,5,0.3242,7.09,High,Sunday
+Onion Rings,Sides,33,70,1.6662,0.0505,13,0.8704,11.91,High,Sunday
+Penne Arrabbiata,Pasta,32,50,1.2465,0.039,7,0.3678,4.52,Medium,Saturday
+Pepperoni Pizza,Pizza,52,121,2.8939,0.0557,4,0.2502,12.59,High,Sunday
+Shawarma Wrap,Wraps,65,129,3.6944,0.0568,13,0.9234,14.48,High,Sunday
+Spaghetti Carbonara,Pasta,46,93,2.3879,0.0519,11,0.9322,20.56,High,Friday
+Tomato Soup,Soups,19,44,0.9894,0.0521,3,0.2285,8.84,High,Saturday
+Veggie Burger,Burgers,33,79,1.8163,0.055,4,0.2926,10.19,High,Saturday

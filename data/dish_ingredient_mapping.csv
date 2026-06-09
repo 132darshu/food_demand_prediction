@@ -1,0 +1,140 @@
+dish_name,dish_category,ingredient_rank,ingredient_name,qty_per_serving_kg,base_price_usd,avg_prep_time_min,seasonal_tag,popularity_weight
+Classic Burger,Burgers,1,Beef Patty,0.18,8.99,11.0,all,0.09
+Classic Burger,Burgers,2,Burger Bun,0.08,8.99,11.0,all,0.09
+Classic Burger,Burgers,3,Lettuce,0.03,8.99,11.0,all,0.09
+Classic Burger,Burgers,4,Tomato,0.05,8.99,11.0,all,0.09
+Classic Burger,Burgers,5,Cheddar Cheese,0.04,8.99,11.0,all,0.09
+Classic Burger,Burgers,6,Ketchup,0.02,8.99,11.0,all,0.09
+Double Cheeseburger,Burgers,1,Beef Patty,0.36,11.49,13.0,all,0.06
+Double Cheeseburger,Burgers,2,Burger Bun,0.08,11.49,13.0,all,0.06
+Double Cheeseburger,Burgers,3,Cheddar Cheese,0.08,11.49,13.0,all,0.06
+Double Cheeseburger,Burgers,4,Pickles,0.02,11.49,13.0,all,0.06
+Double Cheeseburger,Burgers,5,Mustard,0.01,11.49,13.0,all,0.06
+Double Cheeseburger,Burgers,6,Onions,0.03,11.49,13.0,all,0.06
+Veggie Burger,Burgers,1,Veggie Patty,0.17,9.49,10.5,all,0.04
+Veggie Burger,Burgers,2,Burger Bun,0.08,9.49,10.5,all,0.04
+Veggie Burger,Burgers,3,Lettuce,0.04,9.49,10.5,all,0.04
+Veggie Burger,Burgers,4,Tomato,0.05,9.49,10.5,all,0.04
+Veggie Burger,Burgers,5,Avocado,0.06,9.49,10.5,all,0.04
+Veggie Burger,Burgers,6,Mayo,0.02,9.49,10.5,all,0.04
+Margherita Pizza,Pizza,1,Pizza Dough,0.28,12.99,18.5,all,0.07
+Margherita Pizza,Pizza,2,Tomato Sauce,0.1,12.99,18.5,all,0.07
+Margherita Pizza,Pizza,3,Mozzarella Cheese,0.15,12.99,18.5,all,0.07
+Margherita Pizza,Pizza,4,Fresh Basil,0.02,12.99,18.5,all,0.07
+Margherita Pizza,Pizza,5,Olive Oil,0.02,12.99,18.5,all,0.07
+Pepperoni Pizza,Pizza,1,Pizza Dough,0.28,14.49,19.5,all,0.08
+Pepperoni Pizza,Pizza,2,Tomato Sauce,0.1,14.49,19.5,all,0.08
+Pepperoni Pizza,Pizza,3,Mozzarella Cheese,0.15,14.49,19.5,all,0.08
+Pepperoni Pizza,Pizza,4,Pepperoni,0.12,14.49,19.5,all,0.08
+Pepperoni Pizza,Pizza,5,Bell Peppers,0.05,14.49,19.5,all,0.08
+BBQ Chicken Pizza,Pizza,1,Pizza Dough,0.28,15.99,20.5,all,0.05
+BBQ Chicken Pizza,Pizza,2,BBQ Sauce,0.08,15.99,20.5,all,0.05
+BBQ Chicken Pizza,Pizza,3,Chicken Breast,0.22,15.99,20.5,all,0.05
+BBQ Chicken Pizza,Pizza,4,Mozzarella Cheese,0.15,15.99,20.5,all,0.05
+BBQ Chicken Pizza,Pizza,5,Red Onions,0.04,15.99,20.5,all,0.05
+BBQ Chicken Pizza,Pizza,6,Corn,0.05,15.99,20.5,all,0.05
+Spaghetti Carbonara,Pasta,1,Spaghetti,0.18,13.49,15.0,winter,0.05
+Spaghetti Carbonara,Pasta,2,Eggs,0.1,13.49,15.0,winter,0.05
+Spaghetti Carbonara,Pasta,3,Pancetta,0.08,13.49,15.0,winter,0.05
+Spaghetti Carbonara,Pasta,4,Parmesan Cheese,0.05,13.49,15.0,winter,0.05
+Spaghetti Carbonara,Pasta,5,Black Pepper,0.005,13.49,15.0,winter,0.05
+Spaghetti Carbonara,Pasta,6,Garlic,0.01,13.49,15.0,winter,0.05
+Penne Arrabbiata,Pasta,1,Penne Pasta,0.18,11.99,14.5,all,0.04
+Penne Arrabbiata,Pasta,2,Tomato Sauce,0.12,11.99,14.5,all,0.04
+Penne Arrabbiata,Pasta,3,Chili Flakes,0.005,11.99,14.5,all,0.04
+Penne Arrabbiata,Pasta,4,Garlic,0.01,11.99,14.5,all,0.04
+Penne Arrabbiata,Pasta,5,Olive Oil,0.02,11.99,14.5,all,0.04
+Penne Arrabbiata,Pasta,6,Parmesan Cheese,0.04,11.99,14.5,all,0.04
+Chicken Biryani,Rice Dishes,1,Basmati Rice,0.3,13.99,23.0,all,0.07
+Chicken Biryani,Rice Dishes,2,Chicken Breast,0.25,13.99,23.0,all,0.07
+Chicken Biryani,Rice Dishes,3,Biryani Spices,0.02,13.99,23.0,all,0.07
+Chicken Biryani,Rice Dishes,4,Onions,0.08,13.99,23.0,all,0.07
+Chicken Biryani,Rice Dishes,5,Yogurt,0.06,13.99,23.0,all,0.07
+Chicken Biryani,Rice Dishes,6,Saffron,0.001,13.99,23.0,all,0.07
+Chicken Biryani,Rice Dishes,7,Mint Leaves,0.01,13.99,23.0,all,0.07
+Lamb Biryani,Rice Dishes,1,Basmati Rice,0.3,16.49,25.0,all,0.05
+Lamb Biryani,Rice Dishes,2,Lamb Meat,0.28,16.49,25.0,all,0.05
+Lamb Biryani,Rice Dishes,3,Biryani Spices,0.025,16.49,25.0,all,0.05
+Lamb Biryani,Rice Dishes,4,Onions,0.08,16.49,25.0,all,0.05
+Lamb Biryani,Rice Dishes,5,Yogurt,0.06,16.49,25.0,all,0.05
+Lamb Biryani,Rice Dishes,6,Saffron,0.001,16.49,25.0,all,0.05
+Lamb Biryani,Rice Dishes,7,Rose Water,0.01,16.49,25.0,all,0.05
+Shawarma Wrap,Wraps,1,Chicken Breast,0.2,9.99,9.5,all,0.07
+Shawarma Wrap,Wraps,2,Pita Bread,0.09,9.99,9.5,all,0.07
+Shawarma Wrap,Wraps,3,Tahini Sauce,0.04,9.99,9.5,all,0.07
+Shawarma Wrap,Wraps,4,Lettuce,0.03,9.99,9.5,all,0.07
+Shawarma Wrap,Wraps,5,Tomato,0.04,9.99,9.5,all,0.07
+Shawarma Wrap,Wraps,6,Garlic Sauce,0.03,9.99,9.5,all,0.07
+Shawarma Wrap,Wraps,7,Pickles,0.02,9.99,9.5,all,0.07
+Falafel Wrap,Wraps,1,Chickpeas,0.14,8.49,9.0,all,0.04
+Falafel Wrap,Wraps,2,Pita Bread,0.09,8.49,9.0,all,0.04
+Falafel Wrap,Wraps,3,Tahini Sauce,0.04,8.49,9.0,all,0.04
+Falafel Wrap,Wraps,4,Lettuce,0.03,8.49,9.0,all,0.04
+Falafel Wrap,Wraps,5,Tomato,0.04,8.49,9.0,all,0.04
+Falafel Wrap,Wraps,6,Onions,0.02,8.49,9.0,all,0.04
+Falafel Wrap,Wraps,7,Parsley,0.01,8.49,9.0,all,0.04
+French Fries,Sides,1,Potatoes,0.22,3.99,6.5,all,0.09
+French Fries,Sides,2,Vegetable Oil,0.05,3.99,6.5,all,0.09
+French Fries,Sides,3,Salt,0.005,3.99,6.5,all,0.09
+French Fries,Sides,4,Paprika,0.003,3.99,6.5,all,0.09
+Onion Rings,Sides,1,Onions,0.18,4.49,7.0,all,0.04
+Onion Rings,Sides,2,Flour,0.06,4.49,7.0,all,0.04
+Onion Rings,Sides,3,Eggs,0.05,4.49,7.0,all,0.04
+Onion Rings,Sides,4,Breadcrumbs,0.04,4.49,7.0,all,0.04
+Onion Rings,Sides,5,Vegetable Oil,0.05,4.49,7.0,all,0.04
+Caesar Salad,Salads,1,Romaine Lettuce,0.25,8.99,6.5,summer,0.04
+Caesar Salad,Salads,2,Parmesan Cheese,0.05,8.99,6.5,summer,0.04
+Caesar Salad,Salads,3,Croutons,0.04,8.99,6.5,summer,0.04
+Caesar Salad,Salads,4,Caesar Dressing,0.06,8.99,6.5,summer,0.04
+Caesar Salad,Salads,5,Lemon,0.02,8.99,6.5,summer,0.04
+Greek Salad,Salads,1,Cucumber,0.12,8.49,6.5,summer,0.03
+Greek Salad,Salads,2,Tomato,0.1,8.49,6.5,summer,0.03
+Greek Salad,Salads,3,Feta Cheese,0.08,8.49,6.5,summer,0.03
+Greek Salad,Salads,4,Olives,0.05,8.49,6.5,summer,0.03
+Greek Salad,Salads,5,Red Onions,0.03,8.49,6.5,summer,0.03
+Greek Salad,Salads,6,Olive Oil,0.02,8.49,6.5,summer,0.03
+Greek Salad,Salads,7,Oregano,0.003,8.49,6.5,summer,0.03
+Tomato Soup,Soups,1,Tomatoes,0.35,6.49,10.0,winter,0.03
+Tomato Soup,Soups,2,Vegetable Stock,0.15,6.49,10.0,winter,0.03
+Tomato Soup,Soups,3,Cream,0.06,6.49,10.0,winter,0.03
+Tomato Soup,Soups,4,Garlic,0.01,6.49,10.0,winter,0.03
+Tomato Soup,Soups,5,Basil,0.01,6.49,10.0,winter,0.03
+Tomato Soup,Soups,6,Butter,0.02,6.49,10.0,winter,0.03
+Mushroom Soup,Soups,1,Mushrooms,0.3,6.99,10.5,winter,0.02
+Mushroom Soup,Soups,2,Vegetable Stock,0.15,6.99,10.5,winter,0.02
+Mushroom Soup,Soups,3,Cream,0.07,6.99,10.5,winter,0.02
+Mushroom Soup,Soups,4,Garlic,0.01,6.99,10.5,winter,0.02
+Mushroom Soup,Soups,5,Thyme,0.005,6.99,10.5,winter,0.02
+Mushroom Soup,Soups,6,Butter,0.02,6.99,10.5,winter,0.02
+Iced Coffee,Beverages,1,Coffee Beans,0.018,4.49,3.0,summer,0.04
+Iced Coffee,Beverages,2,Milk,0.15,4.49,3.0,summer,0.04
+Iced Coffee,Beverages,3,Ice,0.1,4.49,3.0,summer,0.04
+Iced Coffee,Beverages,4,Sugar Syrup,0.02,4.49,3.0,summer,0.04
+Hot Coffee,Beverages,1,Coffee Beans,0.018,3.49,3.0,winter,0.05
+Hot Coffee,Beverages,2,Milk,0.12,3.49,3.0,winter,0.05
+Hot Coffee,Beverages,3,Sugar,0.01,3.49,3.0,winter,0.05
+Lemonade,Beverages,1,Lemons,0.09,3.49,2.5,summer,0.04
+Lemonade,Beverages,2,Sugar,0.03,3.49,2.5,summer,0.04
+Lemonade,Beverages,3,Water,0.25,3.49,2.5,summer,0.04
+Lemonade,Beverages,4,Mint Leaves,0.005,3.49,2.5,summer,0.04
+Mango Smoothie,Beverages,1,Mango,0.2,5.49,4.0,summer,0.03
+Mango Smoothie,Beverages,2,Milk,0.15,5.49,4.0,summer,0.03
+Mango Smoothie,Beverages,3,Sugar,0.02,5.49,4.0,summer,0.03
+Mango Smoothie,Beverages,4,Ice,0.08,5.49,4.0,summer,0.03
+Chocolate Lava Cake,Desserts,1,Chocolate,0.07,6.99,12.5,all,0.03
+Chocolate Lava Cake,Desserts,2,Butter,0.04,6.99,12.5,all,0.03
+Chocolate Lava Cake,Desserts,3,Eggs,0.08,6.99,12.5,all,0.03
+Chocolate Lava Cake,Desserts,4,Flour,0.03,6.99,12.5,all,0.03
+Chocolate Lava Cake,Desserts,5,Sugar,0.04,6.99,12.5,all,0.03
+Chocolate Lava Cake,Desserts,6,Vanilla Extract,0.005,6.99,12.5,all,0.03
+Ice Cream Sundae,Desserts,1,Ice Cream,0.18,5.49,4.0,summer,0.03
+Ice Cream Sundae,Desserts,2,Chocolate Sauce,0.04,5.49,4.0,summer,0.03
+Ice Cream Sundae,Desserts,3,Whipped Cream,0.05,5.49,4.0,summer,0.03
+Ice Cream Sundae,Desserts,4,Cherry,0.01,5.49,4.0,summer,0.03
+Ice Cream Sundae,Desserts,5,Nuts,0.02,5.49,4.0,summer,0.03
+Cheesecake,Desserts,1,Cream Cheese,0.12,5.99,4.0,all,0.02
+Cheesecake,Desserts,2,Sugar,0.04,5.99,4.0,all,0.02
+Cheesecake,Desserts,3,Butter,0.03,5.99,4.0,all,0.02
+Cheesecake,Desserts,4,Graham Crackers,0.05,5.99,4.0,all,0.02
+Cheesecake,Desserts,5,Vanilla Extract,0.005,5.99,4.0,all,0.02
+Cheesecake,Desserts,6,Eggs,0.06,5.99,4.0,all,0.02
